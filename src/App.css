@@ -1,24 +1,115 @@
-.App {
-  text-align: center;
+* {
+    line-height: 1.4em;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+body {
+    background-color: #527ab4;
+    margin: 0;
+    padding: 0;
+    font-family: Lucida Grande, Verdana, Arial, Sans-serif;
+    font-size: 11pt;
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+h1 a {
+    text-decoration: none;
+    border: 0;
 }
 
-.App-intro {
-  font-size: large;
+intro p {
+    margin-left: 30px;
 }
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+img {
+    float: right;
+    border: solid black 1px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+p {
+    margin: 0;
+    padding: 5px;
+}
+
+.card {
+    position: relative;
+    width: 50%;
+    border: solid black 1px;
+    background-color: white;
+    text-align: left;
+    padding: 25px;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+.contact {
+    text-align: right;
+}
+
+h1,
+h2,
+h3 {
+    font-family: Georgia, Verdana, Arial, Sans-serif;
+    margin: 20px 0 0 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 220%;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+}
+
+h2,
+h3 {
+    color: #999;
+}
+
+ul li {
+    list-style: none;
+    margin: 5 0 0 0px;
+    padding: 5 0 5 0px;
+    font-size: 14px;
+}
+
+ul.sub li.sub {
+    margin: 0 0 5 25px;
+    padding: 0 0 5 0px;
+    font-size: 14px;
+    /* list-style-image: url(imgs/star9.gif); */
+}
+
+ul.sub {
+    margin: 0;
+    padding: 0 5 0 0px;
+}
+
+ul {
+    margin: 0 0 0 0px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    border-bottom: solid blue 1px;
+}
+
+a:hover {
+    color: blue;
+}
+
+.footerquote {
+    margin-top: 50px;
+    text-align: center;
+    font-style: italic;
+    border-top: solid gray 1px;
+    font-size: 75%;
+}
+.header {
+    padding-bottom: 10px;
+    border-bottom: solid gray 1px;
+}
+.alert {
+    color: red;
+    font-weight: bold;
 }
