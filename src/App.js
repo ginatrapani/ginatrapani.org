@@ -1,27 +1,30 @@
 import React, { Component } from "react";
 import "./App.css";
-import Intro from "./Intro.js";
+import ReactMarkdown from "react-markdown";
 
-class Header extends Component {
-    render() {
-        return (
-            <div className="header">
-                <h1>
-                    <a href="/">Gina Trapani</a>
-                </h1>
-                <p>Developer &middot; Writer &middot; Founder</p>
-            </div>
-        );
-    }
-}
+const markdownFilePath = require("./md/index.md");
 
 class App extends Component {
+    state = {
+        markdown: "Loading..."
+    };
+
+    componentWillMount() {
+        fetch(markdownFilePath)
+            .then(response => {
+                return response.text();
+            })
+            .then(text => {
+                this.setState({ markdown: text });
+            });
+    }
+
     render() {
+        const { markdown } = this.state;
         return (
             <center>
                 <div className="card">
-                    <Header />
-                    <Intro />
+                    <ReactMarkdown source={markdown} />
                 </div>
             </center>
         );
