@@ -10,7 +10,8 @@ class App extends Component {
     state = {
         introMarkdown: "Hello!...",
         recentlyMarkdown: "Recently...",
-        archiveMarkdown: ""
+        archiveMarkdown: "",
+        isOpen: false
     };
 
     componentWillMount() {
@@ -37,8 +38,18 @@ class App extends Component {
             });
     }
 
+    handleMoreClick = event => {
+        event.preventDefault();
+        this.setState({ isOpen: true });
+    };
+
     render() {
-        const { introMarkdown, recentlyMarkdown, archiveMarkdown } = this.state;
+        const {
+            introMarkdown,
+            recentlyMarkdown,
+            archiveMarkdown,
+            isOpen
+        } = this.state;
         return (
             <center>
                 <div className="card">
@@ -54,7 +65,17 @@ class App extends Component {
                     <hr />
                     <ReactMarkdown source={introMarkdown} />
                     <ReactMarkdown source={recentlyMarkdown} />
-                    <ReactMarkdown source={archiveMarkdown} />
+                    {!isOpen && (
+                        <div className="more">
+                            <a
+                                onClick={this.handleMoreClick}
+                                className="moreClick"
+                            >
+                                See (much, much) more...
+                            </a>
+                        </div>
+                    )}
+                    {isOpen && <ReactMarkdown source={archiveMarkdown} />}
                     <hr className="footer" />
                     <div className="footerQuote">
                         &quot;If I had more time, I would have written a shorter
