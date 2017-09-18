@@ -210,6 +210,7 @@
 ### March 2013
 
 * Harvard Business Review Press included two of my essays in their new edition of [_Getting The Right Work Done_](http://www.flickr.com/photos/ginatrapani/8529721856/).
+* After its $1.1B acquisition by Yahoo!, cofounder Marco Arment credited me with having a small hand in getting [Tumblr off the ground](https://marco.org/2013/05/20/one-person-product).
 
 ### February 2013
 

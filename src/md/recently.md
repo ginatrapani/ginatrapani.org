@@ -1,5 +1,9 @@
 ## Recently
 
+### September 2017
+
+* Compiled and published over a year's worth of work for various clients into an easily-reusable [WordPress + React Starter Kit](https://github.com/postlight/headless-wp-starter).
+
 ### August 2017
 
 * Transferred all the Todo.txt projects to a new community-led [organization](http://blog.todotxt.org/post/164525181522/community-and-the-future-of-todotxt). Pull requests are welcome!
