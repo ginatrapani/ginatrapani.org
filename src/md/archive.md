@@ -1,64 +1,3 @@
-# Gina Trapani
-
-Developer &middot; Writer &middot; Founder
-
----
-
-## Hello!
-
-(http://www.flickr.com/photos/ginatrapani/5215556717/)[
-    <img src={headshot} alt="Gina Trapani" />
-]I'm Gina Trapani. I build apps and web sites, and I like
-to write about the intersection of life and technology.
-
-At work, I'm a Partner and Director of Engineering at
-[Postlight](https://postlight.com), a digital
-product studio in New York City. Before Postlight, I founded
-sites and services like Makerbase, an IMDb for digital
-projects (acquired by Fog Creek), and
-[ThinkUp](http://www.nytimes.com/2015/01/01/technology/personaltech/thinkup-helps-the-social-network-user-see-the-online-self.html?_r=0), a social media analytics tool.
-
-I'm probably best known for being the founding editor of
-[Lifehacker](http://lifehacker.com) (acquired by
-Univision), and the author of the
-[Lifehacker book](http://lifehackerbook.com). I
-also created [Todo.txt](http://todotxt.com), an
-open source collection of text-based task list apps, and
-[Narrow the Gapp](http://narrowthegapp.com), a
-web site about the gender pay gap. I'm
-[@ginatrapani](http://twitter.com/ginatrapani") on
-Twitter, one of _The New York Times_' [Nine to Follow Among Millions](http://www.nytimes.com/2010/01/03/weekinreview/03carr-sidebar.html?ref=weekinreview)".
-
-Here's [my formal, complete bio](bio.html). Some
-nice strangers also wrote [a Wikipedia page about me](http://en.wikipedia.org/wiki/Gina_Trapani). To get in touch, you can send me an email to my usual
-username at Gmail or [tweet at me](http://twitter.com/ginatrapani).
-
-Thanks for stopping by.
-
-## Recently
-
-### July 2017
-
-* Published [How to Build for the Handoff](https://trackchanges.postlight.com/how-to-build-for-the-handoff-a2af3421be11) in Track Changes.
-
-### June 2017
-
-* Named [a Partner at Postlight](https://trackchanges.postlight.com/gina-trapani-named-postlight-partner-96bcdbc88d36).
-* Published [my dotfiles on GitHub](https://github.com/ginatrapani/dotfiles) for reference and reuse by other programmers.
-
-### May 2017
-
-* Helped launch [a beautiful new redesign of The Village Voice's web site](https://trackchanges.postlight.com/meet-the-all-new-villagevoice-com-ee5d4357fa2e), which was [particularly meaningful to me](https://twitter.com/ginatrapani/status/864828571839332354) as a native New Yorker.
-
-### April 2017
-
-* Appeared on the Track Changes podcast with Paul Ford [talking all things Todo.txt](https://trackchanges.postlight.com/gina-trapani-has-things-todo-txt-789a06af4df8) and Paul's devotion to Emacs Org mode.
-
-### March 2017
-
-* Appeared on a panel at [Google's first-ever AMP Conf](https://www.ampproject.org/amp-conf-2017/) to debate whether or not AMP is good for the open web, alongside panelists from BuzzFeed, SalesForce, and Etsy. [Andy Baio captured a clip](https://twitter.com/waxpancake/status/839195543771332608).
-* Published [Modern JavaScript for Ancient Web Developers](https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9) in Track Changes.
-
 ### December 2016
 
 * Fog Creek Software [acquired Makerbase](https://medium.com/gomix/introducing-gomix-aec205c421cb).
@@ -703,7 +642,7 @@ Thanks for stopping by.
 
 ### September 2006
 
-* Served as a judge at Yahoo!'s first (http://yodel.yahoo.com/2006/10/02/moblogging-purse-takes-hack-day-grand-prize/)[Open Hack Day] event.
+* Served as a judge at Yahoo!'s first [Open Hack Day](http://yodel.yahoo.com/2006/10/02/moblogging-purse-takes-hack-day-grand-prize/) event.
 
 ### August 2006
 
@@ -795,5 +734,6 @@ Thanks for stopping by.
 * _PC Magazine_ mentions a Firefox extension I wrote, [About This Site](http://scribbling.net/projects/firefoxextensions/aboutsite/),  in their "[Top 15 Firefox Extensions](http://www.pcmag.com/article2/0,1895,1758853,00.asp)."
 
 ### January 2005
+
 * Launched [Lifehacker](http://lifehacker.com), a Gawker Media weblog on productivity, software, tips and tricks.
 * The _BBC_ quotes me in an article entitled "[IT support for your parents](http://news.bbc.co.uk/1/hi/magazine/4156333.stm)" for an article I wrote called "[How to fix Mom's computer](http://scribbling.net/how-to-fix-moms-computer)."

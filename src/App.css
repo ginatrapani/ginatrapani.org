@@ -3,44 +3,23 @@
 }
 
 body {
-    background-color: #527ab4;
-    margin: 0;
-    padding: 0;
     font-family: Lucida Grande, Verdana, Arial, Sans-serif;
     font-size: 11pt;
-}
-
-h1 a {
-    text-decoration: none;
-    border: 0;
-}
-
-img {
-    float: right;
-    border: solid black 1px;
-    margin-left: 10px;
-    margin-bottom: 10px;
+    color: black;
 }
 
 .card {
     position: relative;
-    width: 50%;
-    border: solid black 1px;
-    background-color: white;
+    width: 70%;
+    max-width: 700px;
     text-align: left;
-    padding: 25px;
-    margin-top: 5%;
-    margin-bottom: 10%;
-}
-
-.contact {
-    text-align: right;
+    padding: 50px;
 }
 
 h1,
 h2 {
     font-family: Georgia, Verdana, Arial, Sans-serif;
-    margin: 20px 0 0 0;
+    margin: 0;
     padding: 0;
     color: #999;
 }
@@ -48,56 +27,61 @@ h2 {
 h1 {
     font-size: 220%;
     font-weight: bold;
-    margin: 0px;
-    padding: 0px;
 }
 
-ul li {
-    margin: 0 0 5 25px;
-    padding: 0 0 5 0px;
-    font-size: 14px;
-    list-style-image: url(imgs/star9.gif);
+h1 a {
+    text-decoration: none;
+    border: 0;
+}
+
+h2 {
+    margin-top: 7%;
 }
 
 ul {
     margin: 0;
-    padding: 0 5 0 0px;
+    padding: 0 1 0 0;
+}
+
+ul li {
+    margin: 0;
+    padding: 0;
+    list-style-image: url(imgs/ic_star_rate_black_14px.svg);
 }
 
 a {
     color: black;
     text-decoration: none;
-    border-bottom: solid blue 1px;
+    border-bottom: dotted blue 1px;
 }
 
 a:hover {
+    border-bottom: solid blue 1px;
     color: blue;
 }
 
-.footerquote {
-    margin-top: 50px;
-    text-align: center;
+hr {
+    border-top: 1px dashed #eee;
+}
+
+hr.footer {
+    margin-top: 100px;
+}
+
+div.footerQuote {
+    padding: 0;
+    margin: 0;
+    font-size: 11pt;
     font-style: italic;
-    border-top: solid gray 1px;
-    font-size: 75%;
-}
-.header {
-    padding-bottom: 10px;
-    border-bottom: solid gray 1px;
-}
-.alert {
-    color: red;
-    font-weight: bold;
+    text-align: center;
 }
 
-.card div,
-.card p {
-    margin-left: 30px;
-}
-
-h3 {
-    margin-left: 30px;
-    font-weight: bold;
-    color: black;
-    font-size: 100%;
+.avatar {
+    float: right;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    overflow: hidden;
+    width: 75px;
+    height: 75px;
+    margin-top: 5px;
 }
