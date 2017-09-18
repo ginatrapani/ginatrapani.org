@@ -11,7 +11,7 @@
 ### October 2016
 
 * Helped launch a brand new, reimagined web site for [VICE News](https://news.vice.com) (in parallel with the premier of [VICE News Tonight on HBO](http://www.hbo.com/vice)) at Postlight.
-* Published (https://trackchanges.postlight.com/wordpress-without-shame-fedc1a2fef72)[WordPress Without Shame] in Track Changes.
+* Published [WordPress Without Shame](https://trackchanges.postlight.com/wordpress-without-shame-fedc1a2fef72) in Track Changes.
 
 ### September 2016
 
