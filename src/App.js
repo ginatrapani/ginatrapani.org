@@ -44,6 +44,7 @@ class App extends Component {
                 <div className="card">
                     <img
                         className="avatar"
+                        alt="Gina Trapani"
                         src="http://1.gravatar.com/avatar/44230311a3dcd684b6c5f81bf2ec9f60?s=200&amp;d=mm&amp;r=g"
                     />
                     <h1>
