@@ -329,8 +329,8 @@
 
 ### December 2010
 
-* Announced the (http://smarterware.org/6892/third-edition-of-the-lifehacker-book-due-in-2011)[upcoming third edition of the Lifehacker book], due out in 2011.
-* iTunes names This Week in Google one of the (http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCustomPage?name=pageiTunesRewind10_Podcasts)[Best Podcasts of 2010].
+* Announced the [upcoming third edition of the Lifehacker book](http://smarterware.org/6892/third-edition-of-the-lifehacker-book-due-in-2011), due out in 2011.
+* iTunes names This Week in Google one of the [Best Podcasts of 2010](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCustomPage?name=pageiTunesRewind10_Podcasts).
 
 ### November 2010
 
@@ -553,7 +553,7 @@
 
 * _O, The Oprah Magazine_ [cites my "Trusted Trio" system](http://lifehacker.com/software/email/the-trusted-trio-in-o-magazine-323711.php) in a piece on how to organize your email.
 * Released the [Better Gmail 2](http://ginatrapani.org/workshop/firefox/bettergmail2/) Firefox extension.
-* Featured in Michael A. Banks' new book, [_Blogging Heroes:  Interviews with 30 of the World's Top Bloggers_](http://www.amazon.com/exec/obidos/ASIN/0470197390/ref=nosim/lifehackerboo-20).  View a (/media/blogging-heroes.pdf)[PDF of my interview for the book].
+* Featured in Michael A. Banks' new book, [_Blogging Heroes:  Interviews with 30 of the World's Top Bloggers_](http://www.amazon.com/exec/obidos/ASIN/0470197390/ref=nosim/lifehackerboo-20).  View a [PDF of my interview for the book](/media/blogging-heroes.pdf).
 * Tech reporter [Sree Sreenivisan recommends Lifehacker.com](http://www.wnbc.com/technology/14514180/detail.html) on Channel 4, WNBC News in New York.  ([Video clip](http://video.wnbc.com/player/?id=179519).)
 * The International Mentoring Network Organization (IMNO) [interviews me about goals and blogging](http://www.imno.org/articles.asp?qid=280&sid=3).
 * Released the [Better YouTube Firefox extension](/workshop/firefox/betteryoutube/).
@@ -614,7 +614,7 @@
 * The [Zen Habits weblog interviews me](http://zenhabits.net/2007/03/golden-goals-series-gina-trapani-of-lifehacker-on-productivity-hacks-and-success/) on goal-setting, habits and productivity.
 * Arts and humor mag Quirkee.com [interviews me with 20 fun questions](http://www.quirkee.com/interviews/20-questions/20-questions-with-gina-trapani.html), like "When was the last time you spoke to your mother?"
 * Moderated the [Self-marketing for the Freelance Geek](http://2007.sxsw.com/interactive/programming/panels/?action=show&id=IAP060176) panel at SXSW Interactive in Austin, Texas. [Podcast available](http://2007.sxsw.com/coverage/podcasts/).
-* Lifehacker.com takes home a (http://2007.bloggies.com/)[2007 Bloggie Award] for Best Group Weblog at SXSW Interactive.
+* Lifehacker.com takes home a [2007 Bloggie Award](http://2007.bloggies.com/) for Best Group Weblog at SXSW Interactive.
 
 ### February 2007
 
@@ -625,7 +625,7 @@
 ### January 2007
 
 * The Wall Street Journal Online profiles me in [Lifehacker Draws Visitors With Time-Saving Tech Tips](http://online.wsj.com/public/article/SB116527269925440424-GbLVc7wnfGE_jPbjS__mZKmNPM4_20080105.html).
-* Newsweek interviews me about Lifehacker in an article entitled (http://www.msnbc.msn.com/id/16531655/site/newsweek/)[Free Your Mind].
+* Newsweek interviews me about Lifehacker in an article entitled [Free Your Mind](http://www.msnbc.msn.com/id/16531655/site/newsweek/).
 * The BBC publishes my [hot tech pick of 2006, Parallels](http://news.bbc.co.uk/2/hi/technology/6199303.stm#4).
 * Published "How 2.0: 5 Things... That Can Help You Control Your Finances" in the January issue of _Popular Science_.
 
@@ -659,7 +659,7 @@
 
 * Writer [Susie Bright interviews me](http://susiebright.blogs.com/susie_brights_journal_/2006/06/can_lifehacker_.html) on her excellent Audible.com radio show, _In Bed_.
 * _How Stuff Works_ features Lifehacker as their [Blog of the Week](http://computer.howstuffworks.com/lifehacker-blog.htm), including an interview.
-* Italian daily newspaper [_Corriere della Sera_](http://www.corriere.it/) features me in their Technologia & Passioni section.  ((/images/corrieredellasera.pdf)[See the print layout.])
+* Italian daily newspaper [_Corriere della Sera_](http://www.corriere.it/) features me in their Technologia & Passioni section.  [See the print layout.]((/images/corrieredellasera.pdf))
 * _The Economist_ mentions Lifehacker alongside [43 Folders](http://43folders.com) in an article entitled "Reprogram your life."  (June 10-16 issue.)
 
 ### May 2006
