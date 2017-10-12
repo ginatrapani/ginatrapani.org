@@ -10,9 +10,6 @@ const webpackMarkdownLoader = require.context(
 );
 class App extends Component {
     state = {
-        introMarkdown: "Hello!...",
-        recentlyMarkdown: "Recently...",
-        archiveMarkdown: "",
         isOpen: false
     };
 
