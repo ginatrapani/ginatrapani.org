@@ -1,8 +1,13 @@
 ## Recently
 
+### October 2017
+
+* Interviewed Ellen Ullman, author of [_Life in Code_](https://us.macmillan.com/books/9780374534516), about her career as a software engineer at [an event held at the Postlight office](https://www.meetup.com/Postlight/events/243689794/).
+
 ### September 2017
 
 * Compiled and published over a year's worth of work for various clients into an easily-reusable [WordPress + React Starter Kit](https://github.com/postlight/headless-wp-starter).
+* Co-hosted [an event on digital citizenship with The Obama Foundation](https://www.meetup.com/Postlight/events/243467738/) at Postlight headquarters, where I spoke to a panel of founders, entrepreneurs, and community activists working on civic technology across New York City.
 
 ### August 2017
 
