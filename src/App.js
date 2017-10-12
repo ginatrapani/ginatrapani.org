@@ -2,10 +2,12 @@ import React, { Component } from "react";
 import "./App.css";
 import ReactMarkdown from "react-markdown";
 
-const introMarkdown = require("./md/intro.md");
-const recentlyMarkdown = require("./md/recently.md");
-const archiveMarkdown = require("./md/archive.md");
-
+// Use raw-loader as per https://github.com/facebookincubator/create-react-app/issues/2961#issuecomment-333905542
+const webpackMarkdownLoader = require.context(
+    "!raw-loader!./md",
+    false,
+    /\.md$/
+);
 class App extends Component {
     state = {
         introMarkdown: "Hello!...",
@@ -14,42 +16,22 @@ class App extends Component {
         isOpen: false
     };
 
-    componentWillMount() {
-        fetch(introMarkdown)
-            .then(response => {
-                return response.text();
-            })
-            .then(text => {
-                this.setState({ introMarkdown: text });
-            });
-        fetch(recentlyMarkdown)
-            .then(response => {
-                return response.text();
-            })
-            .then(text => {
-                this.setState({ recentlyMarkdown: text });
-            });
-        fetch(archiveMarkdown)
-            .then(response => {
-                return response.text();
-            })
-            .then(text => {
-                this.setState({ archiveMarkdown: text });
-            });
-    }
-
     handleMoreClick = event => {
         event.preventDefault();
         this.setState({ isOpen: true });
     };
 
     render() {
-        const {
-            introMarkdown,
-            recentlyMarkdown,
-            archiveMarkdown,
-            isOpen
-        } = this.state;
+        const markdownFiles = webpackMarkdownLoader
+            .keys()
+            .map(filename => webpackMarkdownLoader(filename));
+
+        const archiveMarkdown = markdownFiles[0];
+        const introMarkdown = markdownFiles[1];
+        const recentlyMarkdown = markdownFiles[2];
+
+        const { isOpen } = this.state;
+
         return (
             <center>
                 <div className="card">
