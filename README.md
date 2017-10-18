@@ -25,3 +25,7 @@ It uses `react-snapshot` to [statically pre-render](https://medium.com/superhigh
 ## Update Content
 
 Site copy is located in Markdown files in the `src/md/` directory. When you're running the site in development mode, as you make changes to the Markdown and save them, the site will automatically reload to display those changes. On build, the Markdown content gets bundled with the JavaScript assets.
+
+## License
+
+This project is MIT-licensed. Fork and reuse the code, update the content to your own, and if you can, please link back to [ginatrapani.org](https://ginatrapani.org). Thanks!
