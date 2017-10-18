@@ -3,6 +3,7 @@
 ### October 2017
 
 * Interviewed Ellen Ullman, author of [_Life in Code_](https://us.macmillan.com/books/9780374534516), about her career as a software engineer at [an event held at the Postlight office](https://www.meetup.com/Postlight/events/243689794/).
+* _Quartz at Work_ includes me on their list of [22 Twitter accounts to follow to become a better manager](https://work.qz.com/1067241/22-twitter-accounts-to-follow-to-become-a-better-manager/).
 
 ### September 2017
 
