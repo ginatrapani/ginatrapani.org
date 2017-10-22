@@ -1,3 +1,15 @@
+<img
+    class="avatar"
+    alt="Gina Trapani"
+    src="https://1.gravatar.com/avatar/44230311a3dcd684b6c5f81bf2ec9f60?s=200&amp;d=mm&amp;r=g"
+/>
+
+# [Gina Trapani](/)
+
+Engineer &middot; Writer &middot; Founder
+
+---
+
 ## Hello!
 
 I'm Gina Trapani. I build software, teams, and digital products for fun and profit. I also like to write about the intersection of life and technology.
