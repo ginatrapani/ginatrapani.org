@@ -3,7 +3,9 @@
 ### October 2017
 
 * Interviewed Ellen Ullman, author of [_Life in Code_](https://us.macmillan.com/books/9780374534516), about her career as a software engineer at [an event held at the Postlight office](https://www.meetup.com/Postlight/events/243689794/).
+* Chatted with Jenn Schiffer, community engineer at Fog Creek's Glitch, a new platform for developers to write and remix code. [Listen here.](https://trackchanges.postlight.com/jenn-schiffer-relates-to-developers-5075c696d7e5)
 * _Quartz at Work_ includes me on their list of [22 Twitter accounts to follow to become a better manager](https://work.qz.com/1067241/22-twitter-accounts-to-follow-to-become-a-better-manager/).
+* Quoted in a new article, [Stages of motivation for contributing user-generated content: A theory and empirical test](http://www.sciencedirect.com/science/article/pii/S107158191730126X), published in the International Journal of Human-Computer Studies.
 
 ### September 2017
 
@@ -12,7 +14,7 @@
 
 ### August 2017
 
-* Transferred all the Todo.txt projects to a new community-led [organization](http://blog.todotxt.org/post/164525181522/community-and-the-future-of-todotxt). Pull requests are welcome!
+* Transferred all the Todo.txt projects to a new community-led [organization](http://blog.todotxt.org/post/164525181522/community-and-the-future-of-todotxt). Pull requests welcome!
 
 ### July 2017
 
