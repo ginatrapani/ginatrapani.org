@@ -12,7 +12,7 @@ Engineer &middot; Writer &middot; Founder
 
 ## Hello!
 
-I'm Gina Trapani. I build software, teams, and digital products for fun and profit. I also like to write about the intersection of life and technology.
+I'm Gina Trapani. I build software products for fun and profit. I also like to write about the intersection of life and technology.
 
 Currently I'm a Partner and Director of Engineering at [Postlight](https://postlight.com), where I help build apps, web sites, and platforms for our clients. Before Postlight, I founded sites and services like [Lifehacker](http://lifehacker.com) (acquired by Univision), Makerbase (acquired by Fog Creek), and [ThinkUp](http://www.nytimes.com/2015/01/01/technology/personaltech/thinkup-helps-the-social-network-user-see-the-online-self.html?_r=0). My side projects include [Todo.txt](https://todotxt.org), an open source collection of text-based task list apps, and [Narrow the Gapp](https://narrowthegapp.com), a web site about the gender pay gap.
 
