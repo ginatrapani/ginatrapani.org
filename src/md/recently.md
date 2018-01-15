@@ -1,10 +1,12 @@
 ## 🗓 Recently
 
-<!--
-#### January 2018
+### January 2018
 
-* Helped build [For Good](https://projectforgood.co), a new resource for finding socially conscious companies.
--->
+* Helped build [For Good](https://projectforgood.co), a newly-launched resource for finding socially-conscious companies.
+
+### December 2017
+
+* Paul Ford and I interviewed Ellen Ullman, author of [_Life in Code_](https://us.macmillan.com/books/9780374534516), about software development in [an episode of Postlight's podcast, Track Changes](https://trackchanges.postlight.com/life-in-code-3efda7b68c0c).
 
 ### November 2017
 
