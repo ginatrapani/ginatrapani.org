@@ -1,4 +1,4 @@
-## Recently
+## 🗓 Recently
 
 <!--
 #### January 2018
