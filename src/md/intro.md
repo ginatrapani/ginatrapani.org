@@ -12,7 +12,7 @@ Developer &middot; Writer &middot; Founder
 
 ## 👋 Hello!
 
-I'm **[@ginatrapani](https://twitter.com/ginatrapani)**. I build software products for fun and profit. I also like to write about the intersection of life and technology.
+I'm **[@ginatrapani](https://twitter.com/ginatrapani)**. I build software products for fun and profit. I also like to write about how technology makes our lives better (and worse).
 
 Currently I'm a Partner and Director of Engineering at [Postlight](https://postlight.com), where we build platforms that power web sites, apps, and other digital products for our clients. Need help building something? [Get in touch](https://postlight.com/#contact).
 
