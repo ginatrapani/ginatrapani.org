@@ -1,5 +1,10 @@
 ## 🗓 Recently
 
+### February 2018
+
+* Helped launch [a new site for The Knight Foundation](https://knightfoundation.org/features/twittermedia), featuring findings from their latest report, _How Black Twitter and other social media communities interact with mainstream news_. _Fast Company_ quoted me in their story [Two Charts Showing How The Mainstream Media Gets Minorities Wrong](https://www.fastcodesign.com/90161863/two-charts-showing-how-the-mainstream-media-gets-minorities-wrong).
+* Mashable quotes me in Kerry Flynn's story [What's a hashtag? A digital device that both brings us together and divides us](https://mashable.com/2018/02/03/whats-in-a-hashtag-weapon-love-and-war/#6HG_ZWPz1uqI).
+
 ### January 2018
 
 * Helped build [For Good](https://projectforgood.co), a newly-launched resource for finding socially-conscious companies.
