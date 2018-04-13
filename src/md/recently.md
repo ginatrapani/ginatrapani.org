@@ -1,5 +1,16 @@
 ## 🗓 Recently
 
+### April 2018
+
+* For Equal Pay Day 2018, relaunched [Narrow the Gap](https://narrowthegap.co/) with a new look and updated 2017 data in collaboration with my friends [Matt Jacobs](http://capndesign.com) and [Holly Graham](http://www.hollydoodlestudio.com/).
+* Gave a talk at [Slack NYC's Developer Meetup](https://slackdevmeetupnyc.splashthat.com/) about Task Estimation for Developers.
+
+### March 2018
+
+* Helped build and launch [a newly redesigned site for the Digital Public Library of America](https://dp.la/news/announcing-the-launch-of-our-new-website).
+* Co-hosted [an event with The Knight Foundation at Postlight](https://www.knightfoundation.org/articles/tune-in-monday-to-a-conversation-on-twitter-diverse-communities-and-trust-in-news), where I moderated a panel discussing the role of platforms in encouraging unproductive dynamics between marginalized communities and journalists, with Anil Dash, Manoush Zomorodi, and Olivier Kamanda.
+* Attended an [International Women's Day Leadership brunch](https://iwdleadershipnycbrunch.splashthat.com/) hosted by Google NYC.
+
 ### February 2018
 
 * Helped launch [a new site for The Knight Foundation](https://knightfoundation.org/features/twittermedia), featuring findings from their latest report, _How Black Twitter and other social media communities interact with mainstream news_. _Fast Company_ quoted me in their story [Two Charts Showing How The Mainstream Media Gets Minorities Wrong](https://www.fastcodesign.com/90161863/two-charts-showing-how-the-mainstream-media-gets-minorities-wrong).
