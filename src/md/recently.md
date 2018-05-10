@@ -1,9 +1,16 @@
 ## 🗓 Recently
 
+### May 2018
+
+* Spoke at F8, Facebook's annual developer conference, about partnering with The National Audubon Society to rebuild its [Bird Guide App](https://www.audubon.org/app) from the ground up with [React Native](http://reactnative.com/). Panelists included representatives from Microsoft, TaskRabbit, and Condé Nast. Watch the video: [How React Native Helps Companies Build Better Mobile Apps](https://developers.facebook.com/videos/f8-2018/how-react-native-helps-companies-build-better-mobile-apps/).
+
 ### April 2018
 
 * For Equal Pay Day 2018, relaunched [Narrow the Gap](https://narrowthegap.co/) with a new look and updated 2017 data in collaboration with my friends [Matt Jacobs](http://capndesign.com) and [Holly Graham](http://www.hollydoodlestudio.com/).
-* Gave a talk at [Slack NYC's Developer Meetup](https://slackdevmeetupnyc.splashthat.com/) about Task Estimation for Developers.
+* Gave a talk at [Slack NYC's Developer Meetup](https://slackdevmeetupnyc.splashthat.com/) about task estimation for developers. Published an ensuing Track Changes post, [Estimation is a Core Competency](https://trackchanges.postlight.com/estimation-is-a-core-competency-36dfc1dfdea3).
+* [Interviewed Claire L. Evans](https://trackchanges.postlight.com/who-really-made-the-internet-claire-l-evans-on-tech-history-b6888aff9f5d) about her new book, _Broad Band: The Untold Story of the Women Who Made the Internet_, on the Track Changes podcast.
+* Helped the team at Postlight launch a web site for [The Great American Read](http://www.pbs.org/the-great-american-read/home/), a new TV show on PBS that celebrates America's top 100 best-loved books.
+* Quoted in _The Wall Street Journal_ story [America Is Drowning in Lists](https://www.wsj.com/articles/if-you-want-to-make-the-a-list-you-have-to-make-a-list-1524843488), a tongue-in-cheek look at todo-list culture.
 
 ### March 2018
 
