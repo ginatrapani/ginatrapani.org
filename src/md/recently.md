@@ -1,75 +1,79 @@
-## 🗓 Recently
+## Recently
+
+### June 2018
+
+*   Named a [Managing Partner](https://twitter.com/ginatrapani/status/1003637691316166657) at Postlight.
 
 ### May 2018
 
-* Spoke at F8, Facebook's annual developer conference, about partnering with The National Audubon Society to rebuild its [Bird Guide App](https://www.audubon.org/app) from the ground up with [React Native](http://reactnative.com/). Panelists included representatives from Microsoft, TaskRabbit, and Condé Nast. Watch the video: [How React Native Helps Companies Build Better Mobile Apps](https://developers.facebook.com/videos/f8-2018/how-react-native-helps-companies-build-better-mobile-apps/).
+*   Spoke at F8, Facebook's annual developer conference, about partnering with The National Audubon Society to rebuild its [Bird Guide App](https://www.audubon.org/app) from the ground up with [React Native](http://reactnative.com/). Panelists included representatives from Microsoft, TaskRabbit, and Condé Nast. Watch the video: [How React Native Helps Companies Build Better Mobile Apps](https://developers.facebook.com/videos/f8-2018/how-react-native-helps-companies-build-better-mobile-apps/).
 
 ### April 2018
 
-* For Equal Pay Day 2018, relaunched [Narrow the Gap](https://narrowthegap.co/) with a new look and updated 2017 data in collaboration with my friends [Matt Jacobs](http://capndesign.com) and [Holly Graham](http://www.hollydoodlestudio.com/).
-* Gave a talk at [Slack NYC's Developer Meetup](https://slackdevmeetupnyc.splashthat.com/) about task estimation for developers. Published an ensuing Track Changes post, [Estimation is a Core Competency](https://trackchanges.postlight.com/estimation-is-a-core-competency-36dfc1dfdea3).
-* [Interviewed Claire L. Evans](https://trackchanges.postlight.com/who-really-made-the-internet-claire-l-evans-on-tech-history-b6888aff9f5d) about her new book, _Broad Band: The Untold Story of the Women Who Made the Internet_, on the Track Changes podcast.
-* Helped the team at Postlight launch a web site for [The Great American Read](http://www.pbs.org/the-great-american-read/home/), a new TV show on PBS that celebrates America's top 100 best-loved books.
-* Quoted in _The Wall Street Journal_ story [America Is Drowning in Lists](https://www.wsj.com/articles/if-you-want-to-make-the-a-list-you-have-to-make-a-list-1524843488), a tongue-in-cheek look at todo-list culture.
+*   For Equal Pay Day 2018, relaunched [Narrow the Gap](https://narrowthegap.co/) with a new look and updated 2017 data in collaboration with my friends [Matt Jacobs](http://capndesign.com) and [Holly Graham](http://www.hollydoodlestudio.com/).
+*   Gave a talk at [Slack NYC's Developer Meetup](https://slackdevmeetupnyc.splashthat.com/) about task estimation for developers. Published an ensuing Track Changes post, [Estimation is a Core Competency](https://trackchanges.postlight.com/estimation-is-a-core-competency-36dfc1dfdea3).
+*   [Interviewed Claire L. Evans](https://trackchanges.postlight.com/who-really-made-the-internet-claire-l-evans-on-tech-history-b6888aff9f5d) about her new book, _Broad Band: The Untold Story of the Women Who Made the Internet_, on the Track Changes podcast.
+*   Helped the team at Postlight launch a web site for [The Great American Read](http://www.pbs.org/the-great-american-read/home/), a new TV show on PBS that celebrates America's top 100 best-loved books.
+*   Quoted in _The Wall Street Journal_ story [America Is Drowning in Lists](https://www.wsj.com/articles/if-you-want-to-make-the-a-list-you-have-to-make-a-list-1524843488), a tongue-in-cheek look at todo-list culture.
 
 ### March 2018
 
-* Helped build and launch [a newly redesigned site for the Digital Public Library of America](https://dp.la/news/announcing-the-launch-of-our-new-website).
-* Co-hosted [an event with The Knight Foundation at Postlight](https://www.knightfoundation.org/articles/tune-in-monday-to-a-conversation-on-twitter-diverse-communities-and-trust-in-news), where I moderated a panel discussing the role of platforms in encouraging unproductive dynamics between marginalized communities and journalists, with Anil Dash, Manoush Zomorodi, and Olivier Kamanda.
-* Attended an [International Women's Day Leadership brunch](https://iwdleadershipnycbrunch.splashthat.com/) hosted by Google NYC.
+*   Helped build and launch a new platform for [The Players' Tribune](https://postlight.com/work/tpt/).
+*   Helped build and launch [a newly redesigned site for the Digital Public Library of America](https://dp.la/news/announcing-the-launch-of-our-new-website).
+*   Co-hosted [an event with The Knight Foundation at Postlight](https://www.knightfoundation.org/articles/tune-in-monday-to-a-conversation-on-twitter-diverse-communities-and-trust-in-news), where I moderated a panel discussing the role of platforms in encouraging unproductive dynamics between marginalized communities and journalists, with Anil Dash, Manoush Zomorodi, and Olivier Kamanda.
+*   Attended an [International Women's Day Leadership brunch](https://iwdleadershipnycbrunch.splashthat.com/) hosted by Google NYC.
 
 ### February 2018
 
-* Helped launch [a new site for The Knight Foundation](https://knightfoundation.org/features/twittermedia), featuring findings from their latest report, _How Black Twitter and other social media communities interact with mainstream news_. _Fast Company_ quoted me in their story [Two Charts Showing How The Mainstream Media Gets Minorities Wrong](https://www.fastcodesign.com/90161863/two-charts-showing-how-the-mainstream-media-gets-minorities-wrong).
-* Mashable quotes me in Kerry Flynn's story [What's a hashtag? A digital device that both brings us together and divides us](https://mashable.com/2018/02/03/whats-in-a-hashtag-weapon-love-and-war/#6HG_ZWPz1uqI).
+*   Helped launch [a new site for The Knight Foundation](https://knightfoundation.org/features/twittermedia), featuring findings from their latest report, _How Black Twitter and other social media communities interact with mainstream news_. _Fast Company_ quoted me in their story [Two Charts Showing How The Mainstream Media Gets Minorities Wrong](https://www.fastcodesign.com/90161863/two-charts-showing-how-the-mainstream-media-gets-minorities-wrong).
+*   Mashable quotes me in Kerry Flynn's story [What's a hashtag? A digital device that both brings us together and divides us](https://mashable.com/2018/02/03/whats-in-a-hashtag-weapon-love-and-war/#6HG_ZWPz1uqI).
 
 ### January 2018
 
-* Helped build [For Good](https://projectforgood.co), a newly-launched resource for finding socially-conscious companies.
+*   Helped build [For Good](https://projectforgood.co), a newly-launched resource for finding socially-conscious companies.
 
 ### December 2017
 
-* Paul Ford and I interviewed Ellen Ullman, author of [_Life in Code_](https://us.macmillan.com/books/9780374534516), about software development in [an episode of Postlight's podcast, Track Changes](https://trackchanges.postlight.com/life-in-code-3efda7b68c0c).
+*   Paul Ford and I interviewed Ellen Ullman, author of [_Life in Code_](https://us.macmillan.com/books/9780374534516), about software development in [an episode of Postlight's podcast, Track Changes](https://trackchanges.postlight.com/life-in-code-3efda7b68c0c).
 
 ### November 2017
 
-* Compiled and published over a year's worth of work for various clients into an easily-reusable [WordPress + React Starter Kit](https://github.com/postlight/headless-wp-starter). Read the [introductory post](https://trackchanges.postlight.com/introducing-postlights-wordpress-react-starter-kit-a61e2633c48c).
+*   Compiled and published over a year's worth of work for various clients into an easily-reusable [WordPress + React Starter Kit](https://github.com/postlight/headless-wp-starter). Read the [introductory post](https://trackchanges.postlight.com/introducing-postlights-wordpress-react-starter-kit-a61e2633c48c).
 
 ### October 2017
 
-* Interviewed Ellen Ullman, author of [_Life in Code_](https://us.macmillan.com/books/9780374534516), about her career as a software engineer at [an event held at the Postlight office](https://www.meetup.com/Postlight/events/243689794/).
-* Chatted with Jenn Schiffer, community engineer at Fog Creek's Glitch, a new platform for developers to write and remix code. [Listen here.](https://trackchanges.postlight.com/jenn-schiffer-relates-to-developers-5075c696d7e5)
-* _Quartz at Work_ includes me on their list of [22 Twitter accounts to follow to become a better manager](https://work.qz.com/1067241/22-twitter-accounts-to-follow-to-become-a-better-manager/).
-* Quoted in a new article, [Stages of motivation for contributing user-generated content: A theory and empirical test](http://www.sciencedirect.com/science/article/pii/S107158191730126X), published in the International Journal of Human-Computer Studies.
-* Worked with Automattic's [Longreads](https://longreads.com/) to launch a Membership Drive with the goal of raising $25,000 to fund new reporting and storytelling projects by mid-November. (November update: Fundraising goal [met](https://account.longreads.com/membership/signup/)!)
+*   Interviewed Ellen Ullman, author of [_Life in Code_](https://us.macmillan.com/books/9780374534516), about her career as a software engineer at [an event held at the Postlight office](https://www.meetup.com/Postlight/events/243689794/).
+*   Chatted with Jenn Schiffer, community engineer at Fog Creek's Glitch, a new platform for developers to write and remix code. [Listen here.](https://trackchanges.postlight.com/jenn-schiffer-relates-to-developers-5075c696d7e5)
+*   _Quartz at Work_ includes me on their list of [22 Twitter accounts to follow to become a better manager](https://work.qz.com/1067241/22-twitter-accounts-to-follow-to-become-a-better-manager/).
+*   Quoted in a new article, [Stages of motivation for contributing user-generated content: A theory and empirical test](http://www.sciencedirect.com/science/article/pii/S107158191730126X), published in the International Journal of Human-Computer Studies.
+*   Worked with Automattic's [Longreads](https://longreads.com/) to launch a Membership Drive with the goal of raising $25,000 to fund new reporting and storytelling projects by mid-November. (November update: Fundraising goal [met](https://account.longreads.com/membership/signup/)!)
 
 ### September 2017
 
-* Co-hosted [an event on digital citizenship with The Obama Foundation](https://www.meetup.com/Postlight/events/243467738/) at Postlight headquarters, where I spoke to a panel of founders, entrepreneurs, and community activists working on civic technology across New York City.
+*   Co-hosted [an event on digital citizenship with The Obama Foundation](https://www.meetup.com/Postlight/events/243467738/) at Postlight headquarters, where I spoke to a panel of founders, entrepreneurs, and community activists working on civic technology across New York City.
 
 ### August 2017
 
-* Transferred all the Todo.txt projects to a new community-led [organization](http://blog.todotxt.org/post/164525181522/community-and-the-future-of-todotxt). Pull requests welcome!
+*   Transferred all the Todo.txt projects to a new community-led [organization](http://blog.todotxt.org/post/164525181522/community-and-the-future-of-todotxt). Pull requests welcome!
 
 ### July 2017
 
-* Published [How to Build for the Handoff](https://trackchanges.postlight.com/how-to-build-for-the-handoff-a2af3421be11) in Track Changes.
+*   Published [How to Build for the Handoff](https://trackchanges.postlight.com/how-to-build-for-the-handoff-a2af3421be11) in Track Changes.
 
 ### June 2017
 
-* Named [a Partner at Postlight](https://trackchanges.postlight.com/gina-trapani-named-postlight-partner-96bcdbc88d36).
-* Published [my dotfiles on GitHub](https://github.com/ginatrapani/dotfiles) for reference and reuse by other programmers.
+*   Named [a Partner at Postlight](https://trackchanges.postlight.com/gina-trapani-named-postlight-partner-96bcdbc88d36).
+*   Published [my dotfiles on GitHub](https://github.com/ginatrapani/dotfiles) for reference and reuse by other programmers.
 
 ### May 2017
 
-* Helped launch [a beautiful new redesign of The Village Voice's web site](https://trackchanges.postlight.com/meet-the-all-new-villagevoice-com-ee5d4357fa2e), which was [particularly meaningful to me](https://twitter.com/ginatrapani/status/864828571839332354) as a native New Yorker.
+*   Helped launch [a beautiful new redesign of The Village Voice's web site](https://trackchanges.postlight.com/meet-the-all-new-villagevoice-com-ee5d4357fa2e), which was [particularly meaningful to me](https://twitter.com/ginatrapani/status/864828571839332354) as a native New Yorker.
 
 ### April 2017
 
-* Appeared on the Track Changes podcast with Paul Ford [talking all things Todo.txt](https://trackchanges.postlight.com/gina-trapani-has-things-todo-txt-789a06af4df8) and Paul's devotion to Emacs Org mode.
+*   Appeared on the Track Changes podcast with Paul Ford [talking all things Todo.txt](https://trackchanges.postlight.com/gina-trapani-has-things-todo-txt-789a06af4df8) and Paul's devotion to Emacs Org mode.
 
 ### March 2017
 
-* Appeared on a panel at [Google's first-ever AMP Conf](https://www.ampproject.org/amp-conf-2017/) to debate whether or not AMP is good for the open web, alongside panelists from BuzzFeed, SalesForce, and Etsy. [Andy Baio captured a clip](https://twitter.com/waxpancake/status/839195543771332608).
-* Published [Modern JavaScript for Ancient Web Developers](https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9) in Track Changes.
-
+*   Appeared on a panel at [Google's first-ever AMP Conf](https://www.ampproject.org/amp-conf-2017/) to debate whether or not AMP is good for the open web, alongside panelists from BuzzFeed, SalesForce, and Etsy. [Andy Baio captured a clip](https://twitter.com/waxpancake/status/839195543771332608).
+*   Published [Modern JavaScript for Ancient Web Developers](https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9) in Track Changes.
