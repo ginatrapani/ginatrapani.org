@@ -1,6 +1,6 @@
 ## Recently
 
-### October
+### October 2018
 
 * Attended the PBS finale taping of [The Great American Read](https://www.pbs.org/the-great-american-read/home/) with the Postlight team to celebrate America's best-loved books.
 
