@@ -32,7 +32,7 @@ class App extends Component {
 
     const pageTitle = "Gina Trapani - The Official Web Site";
     const tweetText =
-      "Managing Partner at Postlight. Founded Lifehacker, ThinkUp, Makerbase. Always building or writing online.";
+      "Managing Partner at Postlight. Founded Lifehacker, ThinkUp, Makerbase. Always building or writing something online.";
     const siteImage =
       "https://1.gravatar.com/avatar/44230311a3dcd684b6c5f81bf2ec9f60?s=200&amp;d=mm&amp;r=g";
     const siteUrl = "https://ginatrapani.org/";
