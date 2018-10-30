@@ -21,7 +21,6 @@
 ### May 2018
 
 *   Spoke at F8, Facebook's annual developer conference, about partnering with The National Audubon Society to rebuild its [Bird Guide App](https://www.audubon.org/app) from the ground up with [React Native](http://reactnative.com/). Panelists included representatives from Microsoft, TaskRabbit, and Condé Nast. Watch the video: [How React Native Helps Companies Build Better Mobile Apps](https://developers.facebook.com/videos/f8-2018/how-react-native-helps-companies-build-better-mobile-apps/).
-
 * [Interviewed Christian Madsbjerg of ReD Associates](https://postlight.com/trackchanges/podcast/making-sense-of-capitalism-and-ethics) on the Track Changes podcast about how tech can benefit from the humanities.
 
 ### April 2018
