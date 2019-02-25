@@ -1,95 +1,95 @@
 * {
-    line-height: 1.4em;
+  line-height: 1.4em;
 }
 
 body {
-    font-family: Lucida Grande, Verdana, Arial, Sans-serif;
-    font-size: 11pt;
-    color: black;
+  font-family: Lucida Grande, Verdana, Arial, Sans-serif;
+  font-size: 11pt;
+  color: black;
 }
 
 .card {
-    position: relative;
-    width: 70%;
-    max-width: 700px;
-    text-align: left;
-    padding: 50px;
+  position: relative;
+  width: 70%;
+  max-width: 700px;
+  text-align: left;
+  padding: 50px;
 }
 
 h1,
 h2 {
-    font-family: Georgia, Verdana, Arial, Sans-serif;
-    margin: 0;
-    padding: 0;
-    color: #999;
+  font-family: Georgia, Verdana, Arial, Sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #999;
 }
 
 h1 {
-    font-size: 220%;
-    font-weight: bold;
+  font-size: 220%;
+  font-weight: bold;
 }
 
 h1 a {
-    text-decoration: none;
-    border: 0;
+  text-decoration: none;
+  border: 0;
 }
 
 h2 {
-    margin-top: 7%;
+  margin-top: 7%;
 }
 
 ul {
-    margin: 0;
-    padding: 0 1 0 0;
+  margin: 0;
+  padding: 0 1 0 0;
 }
 
 ul li {
-    margin: 0;
-    padding: 0 0 10px 0;
-    list-style-image: url(imgs/ic_star_rate_black_14px.svg);
+  margin: 0;
+  padding: 0 0 10px 0;
+  list-style-image: url(imgs/ic_star_rate_black_14px.svg);
 }
 
 a {
-    color: black;
-    text-decoration: none;
-    border-bottom: dotted blue 1px;
+  color: black;
+  text-decoration: none;
+  border-bottom: dotted blue 1px;
 }
 
 a:hover {
-    border-bottom: solid blue 1px;
-    color: blue;
+  border-bottom: solid blue 1px;
+  color: blue;
 }
 
 hr {
-    border-top: 1px dashed #eee;
+  border-top: 1px dashed #eee;
 }
 
 hr.footer {
-    margin-top: 100px;
+  margin-top: 100px;
 }
 
 div.footerQuote {
-    padding: 0;
-    margin: 0;
-    font-size: 9pt;
-    font-style: italic;
-    text-align: center;
+  padding: 0;
+  margin: 0;
+  font-size: 9pt;
+  font-style: italic;
+  text-align: center;
 }
 
-.avatar {
-    float: right;
-    -moz-border-radius: 50%;
-    -webkit-border-radius: 50%;
-    overflow: hidden;
-    width: 75px;
-    height: 75px;
-    margin-top: 5px;
+img {
+  float: right;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  overflow: hidden;
+  width: 75px;
+  height: 75px;
+  margin-top: 5px;
 }
 
 .more {
-    margin-top: 40px;
+  margin-top: 40px;
 }
 
 a.moreClick {
-    cursor: pointer;
+  cursor: pointer;
 }
