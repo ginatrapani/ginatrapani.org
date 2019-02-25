@@ -31,7 +31,7 @@
 
 ### August 2018
 
-* Published an article in Track Changes where I try to answer to age-old question many of our clients do: [When It Comes to Software, Should I Build or Buy?](https://postlight.com/trackchanges/software-build-versus-buy-platform).
+* Published an article in Track Changes where I try to answer an age-old question many of our clients have: [When It Comes to Software, Should I Build or Buy?](https://postlight.com/trackchanges/software-build-versus-buy-platform).
 * Inc. magazine mentions my piece on software estimation in [How the 90/90 Rule Could Save Tesla](https://www.inc.com/magazine/201809/thomas-goetz/optimism-tesla-model-3-deadline.html).
 * [Interviewed Rick Webb](https://postlight.com/trackchanges/podcast/getting-creative-with-marketing), co-founder of The Barbarian Group and author of _Agency_, about digital marketing and starting an agency on the Track Changes podcast.
 
