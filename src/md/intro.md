@@ -8,7 +8,7 @@ Entrepreneur · Developer · Writer
 
 ## Hello!
 
-I'm **[@ginatrapani](https://twitter.com/ginatrapani)**. I've been building software and companies for over two decades. I also like to write technology, and how it makes our lives better (and worse).
+I'm **[@ginatrapani](https://twitter.com/ginatrapani)**. I've been building software and companies for over two decades. I also like to write about technology, and how it makes our lives better (and worse).
 
 Currently I'm a Managing Partner at [Postlight](https://postlight.com), a digital product studio in New York City, where we build web platforms, apps, and other software products for our clients. Need help building something? [Get in touch](https://postlight.com/).
 
