@@ -1,16 +1,37 @@
 ## Recently
 
+### February 2019
+
+* _Business Insider_ included me on their list of [Most Powerful LGBTQ People in Tech](https://www.businessinsider.com/most-powerful-lgbtq-people-in-tech-2019-2) alongside heavy hitters like Tim Cook and Arlan Hamilton.
+* Joined Leo Laporte, Matt Cutts, and Dwight Silverman on [an episode of This Week in Tech](https://twit.tv/shows/this-week-in-tech/episodes/705).
+* Helped release Postlight Labs' first micro project of 2019, [Fyre Ipsum](https://fyreipsum.com), a homage to the Fyre Festival pitch deck.
+* Helped the team at Postlight [open-source the Mercury Web Parser](https://postlight.com/trackchanges/mercury-goes-open-source). It's now free for use in your software projects.
+
+### January 2019
+
+* Published an article in Track Changes called [Personal Finance Apps Should Be Way Better]( https://postlight.com/trackchanges/personal-finance-apps-should-be-way-better) because they should.
+
+### December 2018
+
+* Had so much fun joining my old friends Jason Howell, Florence Ion, Ron Richards, and Chad Johnson on [All About Android's 400th(!) episode](https://www.twit.tv/shows/all-about-android/episodes/400).
+
+### November 2018
+
+* Interviewed Dylan Field, founder and CEO of Figma, for [an episode of Track Changes]( https://postlight.com/trackchanges/podcast/can-design-be-open-source-a-conversation-with-dylan-field-about-figma-and-collaborating-on-design).
+
 ### October 2018
 
+* Recorded a short segment for [a podcast episode with the rest of my partners celebrating Postlight's third birthday]( https://postlight.com/trackchanges/podcast/postlight-is-three).
 * Attended the PBS finale taping of [The Great American Read](https://www.pbs.org/the-great-american-read/home/) with the Postlight team to celebrate America's best-loved books.
 
 ### September 2018
 
-* Fast Company recognized Postlight's re-imagination of The Players' Tribune and the National Audubon Society's flagship products in their [Innovation by Design Awards](https://www.fastcompany.com/innovation-by-design/2018). The Players' Tribune was a finalist in the Web Design category, and the Audubon Bird Guide app was a finalist in Apps & Games. [See Postlight's awards](https://www.fastcompany.com/innovation-by-design/2018/company/postlight).
+* _Fast Company_ recognized Postlight's re-imagination of The Players' Tribune and the National Audubon Society's flagship products in their [Innovation by Design Awards](https://www.fastcompany.com/innovation-by-design/2018). The Players' Tribune was a finalist in the Web Design category, and the Audubon Bird Guide app was a finalist in Apps & Games. [See Postlight's awards](https://www.fastcompany.com/innovation-by-design/2018/company/postlight).
 * Migrated [Postlight's Track Changes blog and podcast](https://postlight.com/trackchanges) off Medium.com.
 
 ### August 2018
 
+* Published an article in Track Changes where I try to answer to age-old question many of our clients do: [When It Comes to Software, Should I Build or Buy?](https://postlight.com/trackchanges/software-build-versus-buy-platform).
 * Inc. magazine mentions my piece on software estimation in [How the 90/90 Rule Could Save Tesla](https://www.inc.com/magazine/201809/thomas-goetz/optimism-tesla-model-3-deadline.html).
 * [Interviewed Rick Webb](https://postlight.com/trackchanges/podcast/getting-creative-with-marketing), co-founder of The Barbarian Group and author of _Agency_, about digital marketing and starting an agency on the Track Changes podcast.
 
