@@ -59,7 +59,7 @@ class App extends Component {
           <ReactMarkdown source={recentlyMarkdown} />
           {!isOpen && (
             <div className="more">
-              <a onClick={this.handleMoreClick} className="moreClick">
+              <a href="/" onClick={this.handleMoreClick} className="moreClick">
                 See (much, much) more...
               </a>
             </div>
