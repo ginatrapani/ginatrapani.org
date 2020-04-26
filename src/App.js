@@ -11,10 +11,10 @@ const webpackMarkdownLoader = require.context(
 );
 class App extends Component {
   state = {
-    isOpen: false
+    isOpen: false,
   };
 
-  handleMoreClick = event => {
+  handleMoreClick = (event) => {
     event.preventDefault();
     this.setState({ isOpen: true });
   };
@@ -22,7 +22,7 @@ class App extends Component {
   render() {
     const markdownFiles = webpackMarkdownLoader
       .keys()
-      .map(filename => webpackMarkdownLoader(filename));
+      .map((filename) => webpackMarkdownLoader(filename));
 
     const archiveMarkdown = markdownFiles[0];
     const introMarkdown = markdownFiles[1];
