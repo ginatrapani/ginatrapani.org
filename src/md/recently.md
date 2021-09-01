@@ -1,5 +1,7 @@
 ## Recently
 
+These days I spend almost all of my time working with my team and clients at [Postlight](https://postlight.com). Once in awhile inspiration strikes during a rare pocket of free time, and I'll publish a side project on [GitHub](https://github.com/ginatrapani) or a [Medium piece](https://ginatrapani.medium.com/). Here's what I've been up to lately.
+
 ### August 2021
 
 - Interviewed Postlight's PM leadership team on [on agency product management](https://postlight.com/podcast/relationship-first-software-second-on-agency-product-management) on the [Postlight Podcast](https://postlight.com/podcast).
