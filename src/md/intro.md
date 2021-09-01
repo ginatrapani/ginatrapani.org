@@ -8,7 +8,7 @@ Technology Leader · Writer · CEO at [Postlight](https://postlight.com/)
 
 ## Hello!
 
-I'm **[@ginatrapani](https://twitter.com/ginatrapani)**. I've been building software and companies for over two decades. I also like to write about technology, and how it changes how people and businesses get things done.
+I'm [@ginatrapani](https://twitter.com/ginatrapani). I've been building software and companies for over two decades. I also like to write about technology, and how it changes how people and businesses get things done.
 
 Currently I'm the CEO at [Postlight](https://postlight.com), a digital strategy, design, and software engineering firm in New York City. Postlight builds enterprise-scale web platforms and digital experiences for our clients. Need help building something? [Get in touch](https://postlight.com/).
 
