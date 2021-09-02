@@ -1,6 +1,6 @@
 ## Recently
 
-These days I spend almost all of my time working with my team and clients at [Postlight](https://postlight.com). Once in awhile inspiration strikes during a rare pocket of free time, and I'll publish a side project on [GitHub](https://github.com/ginatrapani) or a [Medium piece](https://ginatrapani.medium.com/). Here's what I've been up to lately.
+These days I spend almost all of my time working with my clients and team at [Postlight](https://postlight.com). Once in awhile inspiration strikes during a rare pocket of free time, and I'll publish a side project on [GitHub](https://github.com/ginatrapani) or a [Medium piece](https://ginatrapani.medium.com/). Here's what I've been up to lately.
 
 ### August 2021
 
