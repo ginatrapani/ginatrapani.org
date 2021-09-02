@@ -3,9 +3,13 @@
 - Talked through a client project I'm immensely proud to have been a part of on the Postlight Podcast: [Keep the Train Moving: On Digital Transformation at the MTA](https://postlight.com/podcast/keep-the-train-moving-on-digital-transformation-at-the-mta).
 - Published a piece about communicating with busy executives: [Package Up Before You Message Up](https://postlight.com/insights/package-up-before-you-message-up).
 
+### October 2020
+
+- Helped edit a new whitepaper from Postlight called [Catalyst](https://postlight.com/catalyst), a fun and useful read for busy digital leaders with quarterly goals.
+
 ### August 2020
 
-- Launched an [all-new developer experience for Mailchimp](https://postlight.com/insights/introducing-mailchimp-developer).
+- Announced an [all-new developer experience for Mailchimp](https://postlight.com/insights/introducing-mailchimp-developer) from Postlight.
 
 ### July 2020
 
@@ -15,7 +19,9 @@
 
 ### June 2020
 
+- [Postlight pledged \$300,000 to non-profit organizations working on anti-racism initiatives](https://postlight.com/insights/black-lives-matter). Black Lives Matter.
 - Interviewed [Star Simpson, CEO of ThereCraft](https://postlight.com/podcast/delivery-of-the-skies-with-star-simpson-ceo-of-therecraft) with Paul Ford on the Postlight Podcast.
+- [Postlight rebranded and repositioned itself as a strategic partner](https://postlight.com/insights/driven-by-strategy-wired-to-deliver) to our clients, and unveiled a new logo and wordmark.
 - Interviewed [Paul Ford on a new Postlight Labs project, Account](https://postlight.com/podcast/visual-math-paul-and-gina-on-account-from-postlight-labs) on the Postlight Podcast. Account is a simple way to tell interactive stories with math on the web, which I forked to publish [a collection of personal finance calculators](https://personalfinance.ginatrapani.org/) for fun.
 
 ### May 2020
@@ -25,8 +31,13 @@
 
 ### March 2020
 
-- Reckoning with the incredible speed of change around digital tool usage brought on by the necessity of online and remote work, school, and life due to COVID-19, published a piece called [Pandemics Make Power Users](https://postlight.com/insights/remote-workers-are-power-users).
+- Reckoning with the extraordinary acceleration of digital product usage due to COVID-19, published a piece called [Pandemics Make Power Users](https://postlight.com/insights/remote-workers-are-power-users).
 - Discussed [shared goals as expressed in a Statement of Work](https://postlight.com/podcast/shared-goals-paul-rich-and-gina-on-statements-of-work) with Rich and Paul on the Postlight Podcast.
+- Talked through [leadership (and intranets)](https://postlight.com/podcast/what-motivates-people-paul-rich-and-gina-on-leadership) with Rich and Paul on the Postlight Podcast.
+
+### January 2020
+
+- Kicked off the new decade publishing [Ten Technologies to Know in 2020](https://postlight.com/insights/ten-technologies-to-know-in-2020).
 
 ### November 2019
 

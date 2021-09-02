@@ -21,13 +21,13 @@ These days I spend almost all of my time working with my clients and team at [Po
 
 ### March 2021
 
-- For the ninth year counting, I [updated](https://twitter.com/ginatrapani/status/1376341828790841349) [Narrow the Gap](https://narrowthegap.co) to the latest wage data about the gender pay gap. On each pay gap page, I added a comparison of where we are as of 2020 and where things were in 2011. [Women chief executives](https://narrowthegap.co/gap/chief-executives), for example, made 76 cents to the dollar men did in 2020, and this gap narrowed by 7 cents since 2011.
+- For the ninth year counting, [updated](https://twitter.com/ginatrapani/status/1376341828790841349) [Narrow the Gap](https://narrowthegap.co) to the latest wage data about the gender pay gap, and added a new feature this year: each gap now includes a comparison to what it was in 2011. [Women chief executives](https://narrowthegap.co/gap/chief-executives), for example, made 76 cents to the dollar men did in 2020, and this gap narrowed by 7 cents since 2011.
 - Celebrated the launch of new client work by Postlight's client Lyfebulb! [Just Launched: TransplantLyfe](https://postlight.com/insights/just-launched-transplantlyfe-by-lyfebulb).
-- Wrote a piece about the storytelling aspect of digital strategy called [Great Leaders Tell Stories](https://postlight.com/insights/great-leaders-tell-stories)
+- Wrote a piece about the storytelling aspect of digital strategy called [Great Leaders Tell Stories](https://postlight.com/insights/great-leaders-tell-stories).
 
 ### February 2021
 
-- Forked and slightly improved [a simple Python script which automates purchasing crypto from Coinbase Pro](https://github.com/ginatrapani/automated_dollar_cost_averaging_with_coinbasepro).
+- Forked and slightly improved [a simple Python script which automates crypto purchases on Coinbase Pro](https://github.com/ginatrapani/automated_dollar_cost_averaging_with_coinbasepro).
 
 ### January 2021
 
