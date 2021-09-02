@@ -25,8 +25,12 @@ h2 {
 
 h1 {
   font-family: Georgia, Verdana, Arial, Sans-serif;
-  font-size: 300%;
   font-weight: bold;
+}
+@media screen and (min-width: 800px) {
+  h1 {
+    font-size: 350%;
+  }
 }
 
 h1 a {
@@ -45,7 +49,7 @@ h3 {
 
 ul {
   margin: 0;
-  padding: 0 1 0 0;
+  padding: 0 0 0 1em;
 }
 
 ul li {
@@ -66,6 +70,7 @@ a:hover {
 }
 
 hr {
+  margin-top: 7%;
   border-top: 1px solid #eee;
 }
 
