@@ -17,7 +17,7 @@ These days I spend almost all of my time working with my clients and team at [Po
 - Co-hosted my first live Twitter Space with my coworkers, Chris LoSacco and Michael Shane, where we discussed [how to secure buy-in and budget for your big software idea](https://postlight.com/podcast/securing-buy-in-and-budget-twitter-space-live-event).
 
 
-### September 2022
+### September 2021
 
 - Published a few thoughts on why [leaders must keep talking about diversity, equity, and inclusion](https://postlight.com/insights/why-leaders-have-to-keep-talking-about-diversity-and-inclusion).
 
