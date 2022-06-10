@@ -2,6 +2,11 @@
 
 These days I spend almost all of my time working with my clients and team at [Postlight](https://postlight.com). If inspiration strikes during a rare pocket of free time, I'll publish a side project on [GitHub](https://github.com/ginatrapani) or a [Medium piece](https://ginatrapani.medium.com/). Here's what I've been up to lately.
 
+### June 2022
+
+- [NTT DATA acquired Postlight](https://postlight.com/insights/an-exciting-next-chapter-postlight-joins-ntt-data) to offer creative, high-end digital transformation services.
+- Joined Randi Zuckerberg on her Sirius XM radio show, [Randi Zuckerberg Means Business, to talk about Pride 2022](https://www.pandora.com/podcast/randi-zuckerberg-means-business/pride-month/PE:9387627)
+
 ### August 2021
 
 - Interviewed Postlight's PM leadership team on [on agency product management](https://postlight.com/podcast/relationship-first-software-second-on-agency-product-management) on the [Postlight Podcast](https://postlight.com/podcast).
