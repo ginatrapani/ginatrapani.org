@@ -5,7 +5,21 @@ These days I spend almost all of my time working with my clients and team at [Po
 ### June 2022
 
 - [NTT DATA acquired Postlight](https://postlight.com/insights/an-exciting-next-chapter-postlight-joins-ntt-data) to offer creative, high-end digital transformation services.
-- Joined Randi Zuckerberg on her Sirius XM radio show, [Randi Zuckerberg Means Business, to talk about Pride 2022](https://www.pandora.com/podcast/randi-zuckerberg-means-business/pride-month/PE:9387627)
+- Joined Randi Zuckerberg on her Sirius XM radio show, [Randi Zuckerberg Means Business, to kick off Pride 2022](https://www.pandora.com/podcast/randi-zuckerberg-means-business/pride-month/PE:9387627).
+
+### May 2022
+
+- Wrote up [a few ways to be ready for the next phase](https://postlight.com/insights/3-ways-to-be-ready-for-the-next-phase) when you're building software you know will evolve.
+- Wrote a piece about how [impatience is a virtue](https://postlight.com/insights/impatience-is-a-virtue), and discussed [the impatient leaders's perennial question: "Where's the thing?"](https://postlight.com/podcast/wheres-that-thing-on-impatience-as-a-leader) with Chris on the Postlight Podcast.
+
+### March 2022
+
+- Co-hosted my first live Twitter Space with my coworkers, Chris LoSacco and Michael Shane, where we discussed [how to secure buy-in and budget for your big software idea](https://postlight.com/podcast/securing-buy-in-and-budget-twitter-space-live-event).
+
+
+### September 2022
+
+- Published a few thoughts on why [leaders must keep talking about diversity, equity, and inclusion](https://postlight.com/insights/why-leaders-have-to-keep-talking-about-diversity-and-inclusion).
 
 ### August 2021
 
