@@ -4,7 +4,7 @@ These days I spend almost all of my time working with my clients and team at [Po
 
 ### June 2022
 
-- [NTT DATA acquired Postlight](https://postlight.com/insights/an-exciting-next-chapter-postlight-joins-ntt-data) to offer creative, high-end digital transformation services.
+- Big news! [NTT DATA acquired Postlight](https://postlight.com/insights/an-exciting-next-chapter-postlight-joins-ntt-data) to offer creative, high-end digital transformation services.
 - Joined Randi Zuckerberg on her Sirius XM radio show, [Randi Zuckerberg Means Business, to kick off Pride 2022](https://www.pandora.com/podcast/randi-zuckerberg-means-business/pride-month/PE:9387627).
 
 ### May 2022
