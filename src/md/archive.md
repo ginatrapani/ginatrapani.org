@@ -1,43 +1,88 @@
+### May 2022
+
+- Wrote up [a few ways to be ready for the next phase](https://archive.postlight.com/insights/3-ways-to-be-ready-for-the-next-phase) when you're building software you know will evolve.
+- Wrote a piece about how [impatience is a virtue](https://archive.postlight.com/insights/impatience-is-a-virtue), and discussed [the impatient leaders's perennial question: "Where's the thing?"](https://archive.postlight.com/podcast/wheres-that-thing-on-impatience-as-a-leader) with Chris on the Postlight Podcast.
+
+### March 2022
+
+- Co-hosted my first live Twitter Space with my coworkers, Chris LoSacco and Michael Shane, where we discussed [how to secure buy-in and budget for your big software idea](https://archive.postlight.com/podcast/securing-buy-in-and-budget-twitter-space-live-event).
+
+### September 2021
+
+- Published a few thoughts on why [leaders must keep talking about diversity, equity, and inclusion](https://archive.postlight.com/insights/why-leaders-have-to-keep-talking-about-diversity-and-inclusion).
+
+### August 2021
+
+- Interviewed Postlight's PM leadership team on [on agency product management](https://archive.postlight.com/podcast/relationship-first-software-second-on-agency-product-management) on the [Postlight Podcast](https://archive.postlight.com/podcast).
+
+### July 2021
+
+- Wrote a piece reflecting on the ways we all deal with day-to-day stress at work: [Functional in the Face of Anxiety](https://archive.postlight.com/insights/functional-in-the-face-of-anxiety).
+
+### June 2021
+
+- Named Chief Executive Officer at Postlight. Here's the full announcement: [Gina Trapani Named CEO of Postlight, Chris LoSacco Named President](https://archive.postlight.com/insights/gina-trapani-named-ceo-of-postlight-chris-losacco-named-president).
+- Chris and I chatted with Postlight's co-founders about our transition to President and CEO in an episode of The Postlight Podcast: [New Leadership: Paul and Rich Pass the Torch](https://archive.postlight.com/podcast/new-leadership-paul-and-rich-pass-the-torch).
+
+### May 2021
+
+- Wrote about the hard work (and infinite loop) of reducing ambiguity while building software in a piece entitled [How to Push Through the Cone of Uncertainty](https://archive.postlight.com/insights/how-to-push-through-the-cone-of-uncertainty).
+
+### March 2021
+
+- For the ninth year counting, [updated](https://twitter.com/ginatrapani/status/1376341828790841349) [Narrow the Gap](https://narrowthegap.co) to the latest wage data about the gender pay gap, and added a new feature this year: each gap now includes a comparison to what it was in 2011. [Women chief executives](https://narrowthegap.co/gap/chief-executives), for example, made 76 cents to the dollar men did in 2020, and this gap narrowed by 7 cents since 2011.
+- Celebrated the launch of new client work by Postlight's client Lyfebulb! [Just Launched: TransplantLyfe](https://archive.postlight.com/insights/just-launched-transplantlyfe-by-lyfebulb).
+- Wrote a piece about the storytelling aspect of digital strategy called [Great Leaders Tell Stories](https://archive.postlight.com/insights/great-leaders-tell-stories).
+
+### February 2021
+
+- Forked and slightly improved [a simple Python script which automates crypto purchases on Coinbase Pro](https://github.com/ginatrapani/automated_dollar_cost_averaging_with_coinbasepro).
+
+### January 2021
+
+- Wrote a piece on the people side of leading a digital transformation effort, [How to Build Trust When Building Software](https://archive.postlight.com/insights/how-to-win-friends-in-your-digital-transformation).
+- [Interviewed Matt Mullenweg about WordPress and more](https://archive.postlight.com/podcast/wordpress-and-beyond-with-matthew-mullenweg) on the Postlight Podcast.
+
 ### December 2020
 
-- Talked through a client project I'm immensely proud to have been a part of on the Postlight Podcast: [Keep the Train Moving: On Digital Transformation at the MTA](https://postlight.com/podcast/keep-the-train-moving-on-digital-transformation-at-the-mta).
-- Published a piece about communicating with busy executives: [Package Up Before You Message Up](https://postlight.com/insights/package-up-before-you-message-up).
+- Talked through a client project I'm immensely proud to have been a part of on the Postlight Podcast: [Keep the Train Moving: On Digital Transformation at the MTA](https://archive.postlight.com/podcast/keep-the-train-moving-on-digital-transformation-at-the-mta).
+- Published a piece about communicating with busy executives: [Package Up Before You Message Up](https://archive.postlight.com/insights/package-up-before-you-message-up).
 
 ### October 2020
 
-- Helped edit a new whitepaper from Postlight called [Catalyst](https://postlight.com/catalyst), a fun and useful read for busy digital leaders with quarterly goals.
+- Helped edit a new whitepaper from Postlight called [Catalyst](https://archive.postlight.com/catalyst), a fun and useful read for busy digital leaders with quarterly goals.
 
 ### August 2020
 
-- Announced an [all-new developer experience for Mailchimp](https://postlight.com/insights/introducing-mailchimp-developer) from Postlight.
+- Announced an [all-new developer experience for Mailchimp](https://archive.postlight.com/insights/introducing-mailchimp-developer) from Postlight.
 
 ### July 2020
 
 - [Announced](https://twitter.com/ginatrapani/status/1280525962699046915) Postlight's partnership with the MTA to build a new communications platform to centralize, modernize, and target rider messaging. Here's the [press release](https://www.mta.info/press-release/nyc-transit/mta-deploying-9000-new-digital-screens-systemwide-real-time-location).
 - Established a new Digital Strategy team inside Postlight, co-led by Chris LoSacco and myself.
-- Discussed lessons learned and our best approaches to putting together [the perfect slide deck](https://postlight.com/podcast/tools-of-persuasion-on-perfecting-the-slide-deck) with Rich Ziade on the Postlight Podcast.
+- Discussed lessons learned and our best approaches to putting together [the perfect slide deck](https://archive.postlight.com/podcast/tools-of-persuasion-on-perfecting-the-slide-deck) with Rich Ziade on the Postlight Podcast.
 
 ### June 2020
 
-- [Postlight pledged \$300,000 to non-profit organizations working on anti-racism initiatives](https://postlight.com/insights/black-lives-matter). Black Lives Matter.
-- Interviewed [Star Simpson, CEO of ThereCraft](https://postlight.com/podcast/delivery-of-the-skies-with-star-simpson-ceo-of-therecraft) with Paul Ford on the Postlight Podcast.
-- [Postlight rebranded and repositioned itself as a strategic partner](https://postlight.com/insights/driven-by-strategy-wired-to-deliver) to our clients, and unveiled a new logo and wordmark.
-- Interviewed [Paul Ford on a new Postlight Labs project, Account](https://postlight.com/podcast/visual-math-paul-and-gina-on-account-from-postlight-labs) on the Postlight Podcast. Account is a simple way to tell interactive stories with math on the web, which I forked to publish [a collection of personal finance calculators](https://personalfinance.ginatrapani.org/) for fun.
+- [Postlight pledged \$300,000 to non-profit organizations working on anti-racism initiatives](https://archive.postlight.com/insights/black-lives-matter). Black Lives Matter.
+- Interviewed [Star Simpson, CEO of ThereCraft](https://archive.postlight.com/podcast/delivery-of-the-skies-with-star-simpson-ceo-of-therecraft) with Paul Ford on the Postlight Podcast.
+- [Postlight rebranded and repositioned itself as a strategic partner](https://archive.postlight.com/insights/driven-by-strategy-wired-to-deliver) to our clients, and unveiled a new logo and wordmark.
+- Interviewed [Paul Ford on a new Postlight Labs project, Account](https://archive.postlight.com/podcast/visual-math-paul-and-gina-on-account-from-postlight-labs) on the Postlight Podcast. Account is a simple way to tell interactive stories with math on the web, which I forked to publish [a collection of personal finance calculators](https://personalfinance.ginatrapani.org/) for fun.
 
 ### May 2020
 
-- Interviewed [Scott Berkun, author of _How Design Makes the World_](https://postlight.com/podcast/how-design-makes-the-world-with-author-and-designer-scott-berkun) on the Postlight Podcast.
+- Interviewed [Scott Berkun, author of _How Design Makes the World_](https://archive.postlight.com/podcast/how-design-makes-the-world-with-author-and-designer-scott-berkun) on the Postlight Podcast.
 - Inspired by a documentary series about the Chicago Bulls, published a piece on Medium called [Star Players Pass the Ball](https://medium.com/@ginatrapani/star-players-pass-the-ball-7b90b7fe6bde).
 
 ### March 2020
 
-- Reckoning with the extraordinary acceleration of digital product usage due to COVID-19, published a piece called [Pandemics Make Power Users](https://postlight.com/insights/remote-workers-are-power-users).
-- Discussed [shared goals as expressed in a Statement of Work](https://postlight.com/podcast/shared-goals-paul-rich-and-gina-on-statements-of-work) with Rich and Paul on the Postlight Podcast.
-- Talked through [leadership (and intranets)](https://postlight.com/podcast/what-motivates-people-paul-rich-and-gina-on-leadership) with Rich and Paul on the Postlight Podcast.
+- Reckoning with the extraordinary acceleration of digital product usage due to COVID-19, published a piece called [Pandemics Make Power Users](https://archive.postlight.com/insights/remote-workers-are-power-users).
+- Discussed [shared goals as expressed in a Statement of Work](https://archive.postlight.com/podcast/shared-goals-paul-rich-and-gina-on-statements-of-work) with Rich and Paul on the Postlight Podcast.
+- Talked through [leadership (and intranets)](https://archive.postlight.com/podcast/what-motivates-people-paul-rich-and-gina-on-leadership) with Rich and Paul on the Postlight Podcast.
 
 ### January 2020
 
-- Kicked off the new decade publishing [Ten Technologies to Know in 2020](https://postlight.com/insights/ten-technologies-to-know-in-2020).
+- Kicked off the new decade publishing [Ten Technologies to Know in 2020](https://archive.postlight.com/insights/ten-technologies-to-know-in-2020).
 
 ### November 2019
 
@@ -46,7 +91,7 @@
 ### October 2019
 
 - Worked with Slack on their [new certification program](http://slackcertified.com/) and became a [certified Slack Admin](https://verify.skilljar.com/c/jan6nj2hbthk).
-- Announced a new [Tinysheet](https://tinysheet.com) feature that's really nice for people who publish back-of-napkin calculations on the web: [Embed Interactive Tinysheets on Any Web Page](https://postlight.com/trackchanges/embed-interactive-tinysheets-on-any-web-page).
+- Announced a new [Tinysheet](https://tinysheet.com) feature that's really nice for people who publish back-of-napkin calculations on the web: [Embed Interactive Tinysheets on Any Web Page](https://archive.postlight.com/trackchanges/embed-interactive-tinysheets-on-any-web-page).
 
 ### July 2019
 
@@ -55,32 +100,32 @@
 
 ### June 2019
 
-- Published the advice I would give a client around search engine optimization, [Sensible SEO for Good Web Sites](https://postlight.com/trackchanges/sensible-seo-for-good-web-sites).
+- Published the advice I would give a client around search engine optimization, [Sensible SEO for Good Web Sites](https://archive.postlight.com/trackchanges/sensible-seo-for-good-web-sites).
 - Wrote a piece celebrating my new favorite television show, based on the life of Anne Lister, [The World’s a Bit Gayer Thanks to Gentleman Jack](https://medium.com/@ginatrapani/the-worlds-a-bit-gayer-thanks-to-gentleman-jack-cfee80acdb47).
 
 ### May 2019
 
-- Hosted a party at Postlight celebrating and launching [12 Projects in 6 Months from Postlight Labs](https://postlight.com/trackchanges/12-projects-in-6-months-from-postlight-labs).
-- Published a simple framework for aligning the way you think about work: [Think, Organize, Do](https://postlight.com/trackchanges/think-organize-do).
+- Hosted a party at Postlight celebrating and launching [12 Projects in 6 Months from Postlight Labs](https://archive.postlight.com/trackchanges/12-projects-in-6-months-from-postlight-labs).
+- Published a simple framework for aligning the way you think about work: [Think, Organize, Do](https://archive.postlight.com/trackchanges/think-organize-do).
 
 ### April 2019
 
-- Got to join Paul Ford on Postlight's podcast to [Reflect on Gmail 15 Years Later](https://postlight.com/trackchanges/podcast/reflecting-on-gmail-15-years-later).
+- Got to join Paul Ford on Postlight's podcast to [Reflect on Gmail 15 Years Later](https://archive.postlight.com/trackchanges/podcast/reflecting-on-gmail-15-years-later).
 
 ### March 2019
 
-- Wrote up [a major upgrade to Postlight’s WordPress + React Starter Kit](https://postlight.com/trackchanges/postlights-wordpress-react-starter-kit-now-version-2-0), which includes a GraphQL-powered React frontend.
+- Wrote up [a major upgrade to Postlight’s WordPress + React Starter Kit](https://archive.postlight.com/trackchanges/postlights-wordpress-react-starter-kit-now-version-2-0), which includes a GraphQL-powered React frontend.
 
 ### February 2019
 
 - _Business Insider_ included me on their list of [Most Powerful LGBTQ People in Tech](https://www.businessinsider.com/most-powerful-lgbtq-people-in-tech-2019-2) alongside heavy hitters like Tim Cook and Arlan Hamilton.
 - Joined Leo Laporte, Matt Cutts, and Dwight Silverman on [an episode of This Week in Tech](https://twit.tv/shows/this-week-in-tech/episodes/705).
 - Helped release Postlight Labs' first micro project of 2019, [Fyre Ipsum](https://fyreipsum.com), a homage to the Fyre Festival pitch deck.
-- Helped the team at Postlight [open-source the Mercury Web Parser](https://postlight.com/trackchanges/mercury-goes-open-source). It's now free for use in your software projects.
+- Helped the team at Postlight [open-source the Mercury Web Parser](https://archive.postlight.com/trackchanges/mercury-goes-open-source). It's now free for use in your software projects.
 
 ### January 2019
 
-- Published an article in Track Changes called [Personal Finance Apps Should Be Way Better](https://postlight.com/trackchanges/personal-finance-apps-should-be-way-better) because they should.
+- Published an article in Track Changes called [Personal Finance Apps Should Be Way Better](https://archive.postlight.com/trackchanges/personal-finance-apps-should-be-way-better) because they should.
 - Fullstack Academy includes me on their list of [30 Female-Identifying Coders You Should Be Following on Twitter](https://www.fullstackacademy.com/blog/female-identifying-coders-on-twitter).
 
 ### December 2018
@@ -89,23 +134,23 @@
 
 ### November 2018
 
-- Interviewed Dylan Field, founder and CEO of Figma, for [an episode of Track Changes](https://postlight.com/trackchanges/podcast/can-design-be-open-source-a-conversation-with-dylan-field-about-figma-and-collaborating-on-design).
+- Interviewed Dylan Field, founder and CEO of Figma, for [an episode of Track Changes](https://archive.postlight.com/trackchanges/podcast/can-design-be-open-source-a-conversation-with-dylan-field-about-figma-and-collaborating-on-design).
 
 ### October 2018
 
-- Recorded a short segment for [a podcast episode with the rest of my partners celebrating Postlight's third birthday](https://postlight.com/trackchanges/podcast/postlight-is-three).
+- Recorded a short segment for [a podcast episode with the rest of my partners celebrating Postlight's third birthday](https://archive.postlight.com/trackchanges/podcast/postlight-is-three).
 - Attended the PBS finale taping of [The Great American Read](https://www.pbs.org/the-great-american-read/home/) with the Postlight team to celebrate America's best-loved books.
 
 ### September 2018
 
 - _Fast Company_ recognized Postlight's re-imagination of The Players' Tribune and the National Audubon Society's flagship products in their [Innovation by Design Awards](https://www.fastcompany.com/innovation-by-design/2018). The Players' Tribune was a finalist in the Web Design category, and the Audubon Bird Guide app was a finalist in Apps & Games. [See Postlight's awards](https://www.fastcompany.com/innovation-by-design/2018/company/postlight).
-- Migrated [Postlight's Track Changes blog and podcast](https://postlight.com/trackchanges) off Medium.com.
+- Migrated [Postlight's Track Changes blog and podcast](https://archive.postlight.com/trackchanges) off Medium.com.
 
 ### August 2018
 
-- Published an article in Track Changes where I try to answer an age-old question many of our clients have: [When It Comes to Software, Should I Build or Buy?](https://postlight.com/trackchanges/software-build-versus-buy-platform).
+- Published an article in Track Changes where I try to answer an age-old question many of our clients have: [When It Comes to Software, Should I Build or Buy?](https://archive.postlight.com/trackchanges/software-build-versus-buy-platform).
 - Inc. magazine mentions my piece on software estimation in [How the 90/90 Rule Could Save Tesla](https://www.inc.com/magazine/201809/thomas-goetz/optimism-tesla-model-3-deadline.html).
-- [Interviewed Rick Webb](https://postlight.com/trackchanges/podcast/getting-creative-with-marketing), co-founder of The Barbarian Group and author of _Agency_, about digital marketing and starting an agency on the Track Changes podcast.
+- [Interviewed Rick Webb](https://archive.postlight.com/trackchanges/podcast/getting-creative-with-marketing), co-founder of The Barbarian Group and author of _Agency_, about digital marketing and starting an agency on the Track Changes podcast.
 
 ### June 2018
 
@@ -114,7 +159,7 @@
 ### May 2018
 
 - Spoke at F8, Facebook's annual developer conference, about partnering with The National Audubon Society to rebuild its [Bird Guide App](https://www.audubon.org/app) from the ground up with [React Native](http://reactnative.com/). Panelists included representatives from Microsoft, TaskRabbit, and Condé Nast. Watch the video: [How React Native Helps Companies Build Better Mobile Apps](https://developers.facebook.com/videos/f8-2018/how-react-native-helps-companies-build-better-mobile-apps/).
-- [Interviewed Christian Madsbjerg of ReD Associates](https://postlight.com/trackchanges/podcast/making-sense-of-capitalism-and-ethics) on the Track Changes podcast about how tech can benefit from the humanities.
+- [Interviewed Christian Madsbjerg of ReD Associates](https://archive.postlight.com/trackchanges/podcast/making-sense-of-capitalism-and-ethics) on the Track Changes podcast about how tech can benefit from the humanities.
 
 ### April 2018
 
@@ -126,7 +171,7 @@
 
 ### March 2018
 
-- Helped build and launch a new platform for [The Players' Tribune](https://postlight.com/work/tpt/).
+- Helped build and launch a new platform for [The Players' Tribune](https://archive.postlight.com/work/tpt/).
 - Helped build and launch [a newly redesigned site for the Digital Public Library of America](https://dp.la/news/announcing-the-launch-of-our-new-website).
 - Co-hosted [an event with The Knight Foundation at Postlight](https://www.knightfoundation.org/articles/tune-in-monday-to-a-conversation-on-twitter-diverse-communities-and-trust-in-news), where I moderated a panel discussing the role of platforms in encouraging unproductive dynamics between marginalized communities and journalists, with Anil Dash, Manoush Zomorodi, and Olivier Kamanda.
 - Attended an [International Women's Day Leadership brunch](https://iwdleadershipnycbrunch.splashthat.com/) hosted by Google NYC.
@@ -840,7 +885,7 @@
 
 ### July 2006
 
-- Contributed to _WIRED Magazine_'s August issue's [HOW TO section](http://wired.com/wired/archive/14.08/howtointro.html).
+- Contributed to _Wired Magazine_'s August issue's [HOW TO section](http://wired.com/wired/archive/14.08/howtointro.html).
 
 ### June 2006
 
@@ -851,7 +896,7 @@
 
 ### May 2006
 
-- [_WIRED_ magazine gives](http://wired.com/wired/archive/14.06/gina.html) Lifehacker a 2006 [Rave Award](http://raveawards.com). ([See the print magazine layout](/imgs/wired-raves-page.jpg).)
+- [_Wired_ magazine gives](http://wired.com/wired/archive/14.06/gina.html) Lifehacker a 2006 [Rave Award](http://raveawards.com). ([See the print magazine layout](/imgs/wired-raves-page.jpg).)
 - Published "How 2.0: 5 Things... You Can Use to Find Music You Never Knew You Liked, Free" in the June issue of _Popular Science_.
 
 ### April 2006
