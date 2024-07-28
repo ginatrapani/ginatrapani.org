@@ -1,6 +1,6 @@
 ## Recently
 
-Since 2005, I've been keeping a reverse chronological list of stuff I've worked on. Here's what I've been up to recently.
+Since 2005, I've kept a reverse chronological list of stuff I've worked on. Here's what I've been up to recently.
 
 ### July 2024
 
