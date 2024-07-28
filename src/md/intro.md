@@ -2,20 +2,20 @@
 
 # [Gina Trapani](/)
 
-Technology Leader · Writer · CEO&nbsp;at&nbsp;[Postlight](https://postlight.com/)
+Builder · Leader · Writer · Internet Person
 
 ---
 
 ## Hello!
 
-I'm [@ginatrapani](https://twitter.com/ginatrapani). I've been building software and companies for over two decades. I also like to write about technology, and the ways it changes how people and businesses get things done.
+I'm [@ginatrapani](https://www.linkedin.com/in/ginatrapani/). I build software and companies. Sometimes I write about digital technology, and the ways it changes how people and organizations get things done.
 
-Currently I'm the CEO at [Postlight](https://postlight.com), a digital strategy, design, and software engineering firm in New York City. Postlight builds enterprise-scale web platforms and digital experiences for some of the world's biggest and best organizations. Need help building something? [Get in touch](https://postlight.com/).
+Currently I serve as Board Chair at [Radiant Earth](https://radiant.earth/), a progressive non-profit focused on improving access to data about our world.
 
-Before Postlight, I founded sites and services like [Lifehacker](http://lifehacker.com) (acquired by Univision), Makerbase (acquired by Fog Creek), and [ThinkUp](http://www.nytimes.com/2015/01/01/technology/personaltech/thinkup-helps-the-social-network-user-see-the-online-self.html?_r=0). My side projects include [Todo.txt](https://todotxt.org), an open source collection of text-based task list apps, and [Narrow the Gap](https://narrowthegap.co), a web site about the gender pay gap.
+Throughout my career I've started, built, and sold companies, sites, and services like Postlight (acquired by NTT DATA), [Lifehacker](http://lifehacker.com) (acquired by Univision and later, Ziff Davis), and [ThinkUp](http://www.nytimes.com/2015/01/01/technology/personaltech/thinkup-helps-the-social-network-user-see-the-online-self.html?_r=0).
 
-My writing has been published in _The Harvard Business Review_, _The New York Times_, and _Wired_, among others. Profiles of my work have appeared in venues ranging from _The Wall Street Journal_ to _The New York Times_. Once upon a time, I authored three editions of the Lifehacker book. _Fast Company_ named me one of the Most Influential Women in Technology, and _Wired_ magazine awarded me its prestigious Rave Award.
+My writing has been published in a variety of outlets, including _The Harvard Business Review_, _The New York Times_, _Women's Health_, _Popular Science_, and _Macworld_. Profiles of my work have appeared in venues ranging from _The Wall Street Journal_ to _The New York Times_. Once upon a time, I authored three editions of the Lifehacker book.
 
-Some nice strangers wrote [a Wikipedia page about me](http://en.wikipedia.org/wiki/Gina_Trapani). To get in touch, you can send me an email to my usual username at Gmail or [tweet at me](https://twitter.com/ginatrapani).
+A long time ago, _Fast Company_ named me one of the Most Influential Women in Technology, and _Wired_ magazine awarded me its prestigious Rave Award. Some nice strangers wrote [a Wikipedia page about me](http://en.wikipedia.org/wiki/Gina_Trapani).
 
-Thanks for stopping by.
+To get in touch, you can send me an email to my usual username at Gmail. Thanks for stopping by.
