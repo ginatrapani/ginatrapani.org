@@ -2,7 +2,7 @@
 
 # [Gina Trapani](/)
 
-Builder · Leader · Writer · Internet Person
+Builder · Leader · Writer
 
 ---
 
