@@ -79,4 +79,3 @@ yarn-error.log*
 # Yarn
 .yarn-integrity
 .yarn
-yarn.lock
