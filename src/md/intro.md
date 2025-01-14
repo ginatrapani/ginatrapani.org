@@ -2,18 +2,12 @@
 
 # [Gina Trapani](/)
 
-Builder · Leader · Writer
+## Hello! I'm a software person who likes to make stuff on the web.
 
----
+I fell in love with programming when I wrote my first BASIC program as a kid. Since then, I've spent my career writing software, writing about software, and leading software teams and companies.
 
-## Hello!
+I'm a former CEO, startup founder, and author. You can see my career path on [LinkedIn](https://linkedin.com/in/ginatrapani), and some thoughts on life on [Bluesky](https://bsky.app/profile/ginatrapani.org). Email me to my usual username at Gmail.
 
-I'm [@ginatrapani](https://www.linkedin.com/in/ginatrapani/). I build software and companies. Sometimes I write about digital technology, and the ways it changes how people and organizations get things done.
+Thanks for stopping by.
 
-Throughout my career I've started, led, and sold companies, sites, and services like Postlight (acquired by NTT DATA), [Lifehacker](http://lifehacker.com) (acquired by Univision and later, Ziff Davis), and [ThinkUp](http://www.nytimes.com/2015/01/01/technology/personaltech/thinkup-helps-the-social-network-user-see-the-online-self.html?_r=0). Currently I am board chair at [Radiant Earth](https://radiant.earth/), a progressive technology non-profit focused on improving access to data about our world.
-
-My writing has been published in a variety of outlets, including _The Harvard Business Review_, _The New York Times_, _Women's Health_, _Popular Science_, and _Macworld_. Profiles of my work have appeared in venues ranging from _The Wall Street Journal_ to _The New York Times_. Once upon a time, I authored three editions of the Lifehacker book.
-
-A long time ago, _Fast Company_ named me one of the Most Influential Women in Technology, and _Wired_ magazine awarded me its prestigious Rave Award. Some nice strangers wrote [a Wikipedia page about me](http://en.wikipedia.org/wiki/Gina_Trapani).
-
-To get in touch, you can send me an email to my usual username at Gmail. Thanks for stopping by.
+👋 🏳️‍🌈 🦄 📓

@@ -1,11 +1,42 @@
 * {
   line-height: 1.4em;
+  text-decoration: none;
+}
+
+:root {
+  --main-bg-color: #111827;
+  --text-color: #fcfafa;
+  --link-color: blue;
 }
 
 body {
-  font-family: Verdana, Arial, Sans-serif;
-  font-size: 11pt;
-  color: black;
+  font-family: "Lato", serif;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 20px;
+  color: var(--text-color);
+  background-color: var(--main-bg-color);
+}
+
+h1 {
+  font-family: "Lato", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
+  text-decoration: none;
+}
+
+h1 a,
+h1 a:hover {
+  text-decoration: none;
+  border: 0;
+}
+
+h2 {
+  font-family: "Lato", serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 36px;
 }
 
 .card {
@@ -16,74 +47,14 @@ body {
   padding: 50px;
 }
 
-h1,
-h2 {
-  margin: 0;
-  padding: 0;
-  color: #999;
-}
-
-h1 {
-  font-family: Georgia, Verdana, Arial, Sans-serif;
-  font-weight: bold;
-}
-@media screen and (min-width: 800px) {
-  h1 {
-    font-size: 350%;
-  }
-}
-
-h1 a {
-  text-decoration: none;
-  border: 0;
-}
-
-h2 {
-  margin-top: 7%;
-  font-size: 150%;
-}
-
-h3 {
-  font-size: 100%;
-}
-
-ul {
-  margin: 0;
-  padding: 0 0 0 1em;
-}
-
-ul li {
-  margin: 0;
-  padding: 0 0 10px 0;
-  list-style-image: url(imgs/ic_star_rate_black_14px.svg);
-}
-
 a {
-  color: black;
-  text-decoration: none;
-  border-bottom: solid blue 1px;
+  color: var(--text-color);
+  border-bottom: dotted var(--text-color) 1px;
 }
 
 a:hover {
-  border-bottom: solid blue 1px;
-  color: blue;
-}
-
-hr {
-  margin-top: 7%;
-  border-top: 1px solid #eee;
-}
-
-hr.footer {
-  margin-top: 100px;
-}
-
-div.footerQuote {
-  padding: 0;
-  margin: 0;
-  font-size: 9pt;
-  font-style: italic;
-  text-align: center;
+  border-bottom: solid var(--text-color) 1px;
+  color: var(--text-color);
 }
 
 img {
@@ -91,15 +62,6 @@ img {
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   overflow: hidden;
-  width: 75px;
-  height: 75px;
-  margin-top: 5px;
-}
-
-.more {
-  margin-top: 40px;
-}
-
-a.moreClick {
-  cursor: pointer;
+  width: 50px;
+  height: 50px;
 }
