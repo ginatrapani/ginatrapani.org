@@ -11,7 +11,7 @@
 
 body {
   font-family: "Lato", serif;
-  font-weight: 100;
+  font-weight: 300;
   font-style: normal;
   font-size: 20px;
   color: var(--text-color);
@@ -24,6 +24,8 @@ h1 {
   font-style: normal;
   font-size: 24px;
   text-decoration: none;
+  margin-bottom: 60px;
+  margin-top: 27px;
 }
 
 h1 a,
@@ -58,10 +60,11 @@ a:hover {
 }
 
 img {
-  float: right;
+  float: left;
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   overflow: hidden;
   width: 50px;
   height: 50px;
+  margin-right: 20px;
 }
