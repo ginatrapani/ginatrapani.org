@@ -10,29 +10,14 @@ const webpackMarkdownLoader = require.context(
   /\.md$/
 );
 class App extends Component {
-  state = {
-    isOpen: false,
-  };
-
-  handleMoreClick = (event) => {
-    event.preventDefault();
-    this.setState({ isOpen: true });
-  };
-
   render() {
     const markdownFiles = webpackMarkdownLoader
       .keys()
       .map((filename) => webpackMarkdownLoader(filename));
 
-    const archiveMarkdown = markdownFiles[0];
-    const introMarkdown = markdownFiles[1];
-    const recentlyMarkdown = markdownFiles[2];
-
-    const { isOpen } = this.state;
-
+    const introMarkdown = markdownFiles[0];
     const pageTitle = "Gina Trapani - The Official Web Site";
-    const tweetText =
-      "Technology leader, writer, and CEO at Postlight. Always building or writing something online.";
+    const tweetText = "Making stuff on the web";
     const siteImage =
       "https://1.gravatar.com/avatar/44230311a3dcd684b6c5f81bf2ec9f60?s=200&amp;d=mm&amp;r=g";
     const siteUrl = "https://ginatrapani.org/";
@@ -53,23 +38,15 @@ class App extends Component {
           <meta name="twitter:description" content={tweetText} />
           <meta name="twitter:image" content={siteImage} />
           <meta name="twitter:url" content={siteUrl} />
+          <link rel="preconnect" href="https://fonts.googleapis.com" />
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+          <link
+            href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+            rel="stylesheet"
+          />
         </Helmet>
         <div className="card">
           <ReactMarkdown source={introMarkdown} />
-          <ReactMarkdown source={recentlyMarkdown} />
-          {!isOpen && (
-            <div className="more">
-              <a href="/" onClick={this.handleMoreClick} className="moreClick">
-                See (much, much) more...
-              </a>
-            </div>
-          )}
-          {isOpen && <ReactMarkdown source={archiveMarkdown} />}
-          <hr className="footer" />
-          <div className="footerQuote">
-            &quot;If I had more time, I would have written a shorter
-            letter.&quot;
-          </div>
         </div>
       </center>
     );
