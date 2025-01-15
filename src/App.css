@@ -1,3 +1,16 @@
+@font-face {
+  font-family: sofia;
+  src: url(fonts/sofiapro-light.otf);
+}
+@font-face {
+  font-family: inter;
+  src: url(fonts/Inter_28pt-ExtraLight.ttf);
+}
+@font-face {
+  font-family: taviraj;
+  src: url(fonts/Taviraj-Medium.ttf);
+}
+
 * {
   line-height: 1.4em;
   text-decoration: none;
@@ -10,22 +23,22 @@
 }
 
 body {
-  font-family: "Lato", serif;
+  font-family: sofia, serif;
   font-weight: 300;
   font-style: normal;
-  font-size: 20px;
+  font-size: 18px;
   color: var(--text-color);
   background-color: var(--main-bg-color);
 }
 
 h1 {
-  font-family: "Lato", serif;
-  font-weight: 400;
+  font-family: taviraj, serif;
+  font-weight: 500;
   font-style: normal;
   font-size: 24px;
   text-decoration: none;
   margin-bottom: 60px;
-  margin-top: 27px;
+  margin-top: 34px;
 }
 
 h1 a,
@@ -35,10 +48,12 @@ h1 a:hover {
 }
 
 h2 {
-  font-family: "Lato", serif;
-  font-weight: 300;
+  font-family: inter, serif;
+  font-weight: 200;
+  font-optical-sizing: auto;
   font-style: normal;
-  font-size: 36px;
+  font-size: 48px;
+  letter-spacing: -0.015em;
 }
 
 .card {
@@ -50,10 +65,12 @@ h2 {
 }
 
 @media only screen and (max-width: 768px) {
-  /* For mobile phones: */
   [class*="card"] {
     width: 90%;
     padding: 20px;
+  }
+  h2 {
+    font-size: 42px;
   }
 }
 
@@ -72,7 +89,7 @@ img {
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   overflow: hidden;
-  width: 50px;
-  height: 50px;
+  width: 64px;
+  height: 64px;
   margin-right: 10px;
 }

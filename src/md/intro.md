@@ -1,8 +1,8 @@
-![Gina Trapani](https://1.gravatar.com/avatar/44230311a3dcd684b6c5f81bf2ec9f60?s=200&d=mm&r=g)
+[![Gina Trapani](https://1.gravatar.com/avatar/44230311a3dcd684b6c5f81bf2ec9f60?s=200&d=mm&r=g)](/)
 
 # [Gina Trapani](/)
 
-## Hello! I'm a software person who likes to make stuff on the web.
+## Hello! I'm a software person who loves to make stuff.
 
 I fell in love with code as a kid when I got my first BASIC program to run. Since then, I've spent my career writing software, writing about software, and leading software teams and companies.
 
