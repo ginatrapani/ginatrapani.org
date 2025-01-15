@@ -18,8 +18,7 @@ class App extends Component {
     const introMarkdown = markdownFiles[0];
     const pageTitle = "Gina Trapani - The Official Web Site";
     const tweetText = "Making stuff on the web";
-    const siteImage =
-      "https://1.gravatar.com/avatar/44230311a3dcd684b6c5f81bf2ec9f60?s=200&amp;d=mm&amp;r=g";
+    const siteImage = "imgs/ginatrapani.org-card.jpeg";
     const siteUrl = "https://ginatrapani.org/";
     return (
       <center>
