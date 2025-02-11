@@ -6,3 +6,9 @@ TZ = "America/New_York"
 [build]
 publish = "public"
 command = "hugo --gc --minify"
+
+[context.production]
+command = "hugo --minify --baseURL https://ginatrapani.org/"
+
+[context.deploy-preview]
+command = "hugo --baseURL $DEPLOY_PRIME_URL"
