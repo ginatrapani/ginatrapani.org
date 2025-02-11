@@ -1,0 +1,5 @@
+baseURL = 'https://ginatrapani.org/'
+languageCode = 'en-us'
+title = 'Gina Trapani - The Official Web Site'
+disableKinds = ["taxonomy", "taxonomy"]
+enableEmoji = true

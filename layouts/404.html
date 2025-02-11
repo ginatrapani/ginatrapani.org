@@ -1,0 +1,8 @@
+{{ define "main" }}
+<h1>{{ ":no_entry:" | .RenderString }} 404</h1>
+<h2>Page Not Found</h2>
+<p>
+    Whatever you were looking for, it is not here. Go back
+    <a href="{{ .Site.Home.RelPermalink }}">home</a>.
+</p>
+{{ end }}

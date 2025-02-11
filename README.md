@@ -1,31 +1,26 @@
-# ginatrapani.org
+# Gina Trapani's nameplate website
 
-🗃 Gina Trapani's nameplate website
+A simple static site built with [Hugo](https://gohugo.io/).
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+## 🚀 Setup
 
-## Available Scripts
+1. Install Hugo:
+   ```sh
+   brew install hugo  # Mac
+   ```
+2. Clone and run locally:
+```sh
+    git clone https://github.com/ginatrapani/ginatrapani.org.git
+    cd ginatrapani.org
+    hugo server -D
+```
+3. Visit [http://localhost:1313/](http://localhost:1313/).
 
-After running `yarn install`, in the project directory, you can run:
+## ✨ Customize
 
-### `yarn start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `yarn run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.<br>
-It uses [`react-snap`](https://github.com/stereobooster/react-snap) to [statically pre-render](https://medium.com/superhighfives/an-almost-static-stack-6df0a2791319) all the site's pages.
-
-## Update Content
-
-Site copy is located in Markdown files in the `src/md/` directory. When you're running the site in development mode, as you make changes to the Markdown and save them, the site will automatically reload to display those changes. On build, the Markdown content gets bundled with the JavaScript assets.
-
-## License
-
-This project is MIT-licensed. Fork and reuse the code, update the content to your own, and if you can, please link back to [ginatrapani.org](https://ginatrapani.org). Thanks!
+`content/` → Page content
+`layouts/` → Templates
+`assets/scss/` → Styles
+`assets/imgs/` → Site-wide images
+`static/` → Unprocessed assets
+`hugo.toml` → Site settings
