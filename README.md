@@ -18,9 +18,9 @@ A simple static site built with [Hugo](https://gohugo.io/).
 
 ## ✨ Customize
 
-`content/` → Page content
-`layouts/` → Templates
-`assets/scss/` → Styles
-`assets/imgs/` → Site-wide images
-`static/` → Unprocessed assets
-`hugo.toml` → Site settings
+- `content/` → Page content
+- `layouts/` → Templates
+- `assets/scss/` → Styles
+- `assets/imgs/` → Site-wide images
+- `static/` → Unprocessed assets
+- `hugo.toml` → Site settings
