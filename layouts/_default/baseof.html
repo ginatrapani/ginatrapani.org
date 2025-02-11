@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta
+            content="width=device-width,initial-scale=1,shrink-to-fit=no"
+            name="viewport"
+        />
+        <link href="https://1.gravatar.com" rel="preconnect" />
+        <link
+            href="https://www.gravatar.com/avatar/44230311a3dcd684b6c5f81bf2ec9f60?s=16"
+            rel="shortcut icon"
+        />
+        {{ $style := resources.Get "sass/main.scss" | css.Sass |
+        resources.Minify | resources.Fingerprint }}
+        <link rel="stylesheet" href="{{ $style.Permalink }}" />
+        <title>{{.Page.Title}}</title>
+        <meta content="{{.Page.Title}}" itemprop="name" />
+        <meta content="{{.Page.Description}}" itemprop="description" />
+        {{ $metacard := resources.Get "imgs/ginatrapani.org-card.jpeg" }}
+        <meta content="{{ $metacard.RelPermalink }}" itemprop="image" />
+        <meta content="{{.Page.Title}}" property="og:title" />
+        <meta content="website" property="og:type" />
+        <meta content="{{ .Site.BaseURL }}" property="og:url" />
+        <meta content="{{ $metacard }}" property="og:image" />
+        <meta content="{{.Page.Title}}" property="og:site_name" />
+        <meta content="summary" name="twitter:card" />
+        <meta content="{{.Page.Title}}" name="twitter:title" />
+        <meta content="{{.Page.Description}}" name="twitter:description" />
+        <meta content="{{ $metacard.RelPermalink }}" name="twitter:image" />
+        <meta content="{{ .Site.BaseURL }}" name="twitter:url" />
+    </head>
+    <body>
+        <div class="content">{{ block "main" . }}{{ end }}</div>
+    </body>
+</html>
