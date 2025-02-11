@@ -6,18 +6,27 @@
             content="width=device-width,initial-scale=1,shrink-to-fit=no"
             name="viewport"
         />
-        <link href="https://1.gravatar.com" rel="preconnect" />
         <link
-            href="https://www.gravatar.com/avatar/44230311a3dcd684b6c5f81bf2ec9f60?s=16"
-            rel="shortcut icon"
+            rel="icon"
+            type="image/png"
+            href="{{ (resources.Get "imgs/favicon/favicon-96x96.png").RelPermalink }}"
+            sizes="96x96"
         />
+        <link rel="icon" type="image/svg+xml" href="{{ (resources.Get "imgs/favicon/favicon.svg").RelPermalink }}" />
+        <link rel="shortcut icon" href="{{ (resources.Get "imgs/favicon/favicon.ico").RelPermalink }}" />
+        <link
+            rel="apple-touch-icon"
+            sizes="180x180"
+            href="{{ (resources.Get "imgs/favicon/apple-touch-icon.png").RelPermalink }}"
+        />
+
         {{ $style := resources.Get "sass/main.scss" | css.Sass |
         resources.Minify | resources.Fingerprint }}
         <link rel="stylesheet" href="{{ $style.Permalink }}" />
         <title>{{.Page.Title}}</title>
         <meta content="{{.Page.Title}}" itemprop="name" />
         <meta content="{{.Page.Description}}" itemprop="description" />
-        {{ $metacard := resources.Get "imgs/ginatrapani.org-card.jpeg" }}
+        {{ $metacard := resources.Get "imgs/ginatrapani-avatar.png" }}
         <meta content="{{ $metacard.RelPermalink }}" itemprop="image" />
         <meta content="{{.Page.Title}}" property="og:title" />
         <meta content="website" property="og:type" />

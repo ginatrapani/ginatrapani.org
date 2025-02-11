@@ -2,7 +2,7 @@
 title: "Gina Trapani - The Official Website"
 description: "Making stuff on the web"
 ---
-[![Gina Trapani](https://1.gravatar.com/avatar/44230311a3dcd684b6c5f81bf2ec9f60?s=200&d=mm&r=g)](/)
+[![Gina Trapani](/index/images/ginatrapani-avatar.png)](/)
 
 # [Gina Trapani](/)
 
