@@ -4,9 +4,16 @@
 }
 
 :root {
-    --main-bg-color: #111827;
+    --prim-bg-color: #111827;
     --text-color: #fcfafa;
-    --link-color: blue;
+    --link-color: var(--text-color);
+    --highlight-color: var(--text-color);
+    --sec-color: #9c9b94;
+    --body-font-size: 18px;
+    --h1-font-size: 24px;
+    --h2-font-size: 48px;
+    --h2-mobile-font-size: 42px;
+    --sec-font-size: 14px;
 }
 
 body {
@@ -15,9 +22,9 @@ body {
     font-family: sofia, serif;
     font-weight: 300;
     font-style: normal;
-    font-size: 18px;
+    font-size: var(--body-font-size);
     color: var(--text-color);
-    background-color: var(--main-bg-color);
+    background-color: var(--prim-bg-color);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -40,7 +47,7 @@ h1 {
     font-family: taviraj, serif;
     font-weight: 500;
     font-style: normal;
-    font-size: 24px;
+    font-size: var(--h1-font-size);
     text-decoration: none;
     margin-bottom: 60px;
     margin-top: 34px;
@@ -57,7 +64,7 @@ h2 {
     font-weight: 200;
     font-optical-sizing: auto;
     font-style: normal;
-    font-size: 48px;
+    font-size: var(--h2-font-size);
     letter-spacing: -0.015em;
 }
 
@@ -73,18 +80,18 @@ h2 {
         padding: 20px;
     }
     h2 {
-        font-size: 42px;
+        font-size: var(--h2-mobile-font-size);
     }
 }
 
 a {
-    color: var(--text-color);
+    color: var(--link-color);
     border-bottom: dotted var(--text-color) 1px;
 }
 
 a:hover {
     border-bottom: solid var(--text-color) 1px;
-    color: var(--text-color);
+    color: var(--highlight-color);
 }
 
 img {
@@ -95,4 +102,17 @@ img {
     width: 64px;
     height: 64px;
     margin-right: 10px;
+}
+ul {
+    list-style-type: none;
+    margin: 25px 0 0 0;
+    padding: 0;
+}
+li {
+    margin-bottom: 25px;
+    .project-meta {
+        color: var(--sec-color);
+        font-size: var(--sec-font-size);
+        margin-left: 22px;
+    }
 }
