@@ -1,0 +1,9 @@
+<ul>
+    {{ range .Site.Data.curios.projects }}
+    <li>
+        {{ .emoji }}
+        <a href="{{.url}}">{{.title}}</a>&mdash;{{.description}}
+        <div class="project-meta">{{ .type }}&mdash;{{.release}}</div>
+    </li>
+    {{ end }}
+</ul>

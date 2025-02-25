@@ -1,0 +1,21 @@
+projects:
+    - title: "Life in Weeks"
+      emoji: 📍
+      description: "A map of my life"
+      release: "Feb 2025"
+      url: "https://weeks.ginatrapani.org"
+      type: "Data Viz"
+
+    - title: "Media Menu"
+      emoji: 🍿
+      description: "Short media reviews"
+      release: "Jan 2025"
+      url: "https://media.ginatrapani.org"
+      type: "Blog"
+
+    - title: "Truisms"
+      emoji: 🪧
+      description: "A tribute to Jenny Holzer"
+      release: "Nov 2024"
+      url: "https://truisms.ginatrapani.org"
+      type: "Art"
