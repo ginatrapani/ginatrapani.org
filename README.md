@@ -1,4 +1,4 @@
-# Gina Trapani's nameplate website
+# 🦄 Gina's Personal Website
 
 A simple static site built with [Hugo](https://gohugo.io/).
 
