@@ -19,3 +19,10 @@ projects:
       release: "Nov 2024"
       url: "https://truisms.ginatrapani.org"
       type: "Art"
+
+    - title: "Kind of Blue"
+      emoji: 💙
+      description: "Explore popular shades of blue"
+      release: "March 2025"
+      url: "/studio/kind-of-blue/"
+      type: "Tool"

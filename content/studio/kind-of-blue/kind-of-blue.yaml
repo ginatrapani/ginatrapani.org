@@ -1,0 +1,271 @@
+head-styles:
+    - url: "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.1/font/bootstrap-icons.min.css"
+    - url: "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css"
+
+head-scripts:
+    - url: "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"
+
+blues:
+    - name: "Aquamarine"
+      hex: "#7FFFD4"
+      associations:
+        - "serenity"
+        - "tropical waters"
+
+    - name: "Azul"
+      hex: "#1D5DEC"
+      associations:
+        - "vibrancy"
+        - "Latin American culture"
+
+    - name: "Azure"
+      hex: "#007FFF"
+      associations:
+        - "sky"
+        - "clarity"
+
+    - name: "Baby"
+      hex: "#89CFF0"
+      associations:
+        - "softness"
+        - "innocence"
+
+    - name: "Carolina"
+      hex: "#56A0D3"
+      brand: "University of North Carolina"
+      associations:
+        - "collegiate spirit"
+        - "sports"
+
+    - name: "Celeste"
+      hex: "#B2FFFF"
+      associations:
+        - "heavenly"
+        - "airy"
+
+    - name: "Cerulean"
+      hex: "#007BA7"
+      associations:
+        - "tranquility"
+        - "ocean"
+
+    - name: "Cobalt"
+      hex: "#0047AB"
+      brand: ""
+      more: "https://creativebooster.net/blogs/colors/cobalt-blue"
+      associations:
+        - "deep sea calm"
+        - "clear summer day energy"
+
+    - name: "Columbia"
+      hex: "#9BDDFF"
+      brand: "Columbia University"
+      associations:
+        - "academia"
+        - "history"
+
+    - name: "Cornflower"
+      hex: "#6495ed"
+      brand: ""
+      associations:
+        - "deep sea calm"
+        - "clear summer day energy"
+
+    - name: "Cyan"
+      hex: "#00FFFF"
+      associations:
+        - "digital displays"
+        - "modernity"
+
+    - name: "Denim"
+      hex: "#1560BD"
+      associations:
+        - "casual"
+        - "ruggedness"
+
+    - name: "Dodger"
+      hex: "#1E90FF"
+      brand: "L.A. Dodgers"
+      associations:
+        - "sports"
+        - "energy"
+
+    - name: "Electric"
+      hex: "#7DF9FF"
+      associations:
+        - "intensity"
+        - "vibrance"
+
+    - name: "Facebook"
+      hex: "#0965fe"
+      brand: "Facebook"
+      more: "https://about.meta.com/brand/resources/facebook/logo/"
+      associations:
+        - "social media"
+        - "technology"
+
+    - name: "French"
+      hex: "#0077C0"
+      more: "https://creativebooster.net/blogs/colors/french-blue"
+      associations:
+        - "tranquility"
+        - "sophistication"
+
+    - name: "IBM"
+      hex: "#0530ad"
+      brand: "IBM"
+      more: "https://design-language-website.netlify.app/design/language/color/#blue-at-the-core"
+      associations:
+        - "corporate"
+        - "trust"
+
+    - name: "Ice"
+      hex: "#99FFFF"
+      associations:
+        - "coolness"
+        - "purity"
+
+    - name: "Indigo"
+      hex: "#4B0082"
+      associations:
+        - "depth"
+        - "mystery"
+
+    - name: "Midnight"
+      hex: "#191970"
+      associations:
+        - "elegance"
+        - "mystery"
+
+    - name: "Navy"
+      hex: "#000080"
+      associations:
+        - "authority"
+        - "sophistication"
+
+    - name: "Neon"
+      hex: "#1B03A3"
+      associations:
+        - "boldness"
+        - "futurism"
+
+    - name: "NYPD"
+      hex: "#1F456E"
+      brand: "New York Police Department"
+      associations:
+        - "authority"
+        - "security"
+
+    - name: "Oxford"
+      hex: "#002147"
+      brand: "Oxford University"
+      more: "https://creativebooster.net/blogs/colors/oxford-blue"
+      associations:
+        - "power"
+        - "authority"
+        - "loyalty"
+        - "intelligence"
+
+    - name: "Pacific"
+      hex: "#1CA9C9"
+      associations:
+        - "oceanic"
+        - "calmness"
+
+    - name: "Periwinkle"
+      hex: "#CCCCFF"
+      associations:
+        - "whimsy"
+        - "gentleness"
+
+    - name: "Pool"
+      hex: "#42C0FB"
+      associations:
+        - "refreshing"
+        - "leisure"
+
+    - name: "Powder"
+      hex: "#B0E0E6"
+      associations:
+        - "delicacy"
+        - "softness"
+
+    - name: "Royal"
+      hex: "#4169E1"
+      associations:
+        - "regal"
+        - "boldness"
+
+    - name: "Sapphire"
+      hex: "#0F52BA"
+      associations:
+        - "luxury"
+        - "gemstone"
+
+    - name: "Sky"
+      hex: "#87CEEB"
+      ssociations:
+        - "openness"
+        - "freedom"
+
+    - name: "Slate"
+      hex: "#9bb1bb"
+      associations:
+        - "sophistication"
+        - "modernity"
+      more: "https://www.benjaminmoore.com/en-us/paint-colors/color/1648/slate-blue"
+
+    - name: "Teal"
+      hex: "#008080"
+      associations:
+        - "balance"
+        - "earthiness"
+
+    - name: "Tiffany"
+      hex: "#00ABB9"
+      brand: "Tiffany & Co."
+      more: "https://creativebooster.net/blogs/colors/tiffany-blue"
+      associations:
+        - "luxury"
+        - "elegance"
+        - "exclusivity"
+
+    - name: "Topaz"
+      hex: "#13B5C8"
+      associations:
+        - "gemstone"
+        - "uniqueness"
+
+    - name: "Tungsten"
+      hex: "#2A4D69"
+      associations:
+        - "strength"
+        - "resilience"
+
+    - name: "Turquoise"
+      hex: "#40E0D0"
+      associations:
+        - "tropical"
+        - "vitality"
+
+    - name: "UCLA"
+      hex: "#2774AE"
+      brand: "University of California, Los Angeles"
+      associations:
+        - "academia"
+        - "legacy"
+
+    - name: "Yale"
+      hex: "#00356B"
+      brand: "Yale University"
+      associations:
+        - "prestige"
+        - "tradition"
+
+    - name: "Yves Klein"
+      hex: "#002FA7"
+      brand: "Blue Man Group"
+      more: "https://www.eggradients.com/color/international-klein-blue-color"
+      associations:
+        - "prestige"
+        - "tradition"
