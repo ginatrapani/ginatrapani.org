@@ -1,0 +1,50 @@
+{{ $yaml := .Resources.GetMatch "*.yaml" }} {{ $data := dict }} {{ if $yaml }}
+{{ $data = $yaml.Content | transform.Unmarshal }} {{ end }}
+
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>{{.Page.Title}} - Gina Trapani's Studio</title>
+        <meta content="{{.Page.Title}}" itemprop="name" />
+        <meta content="{{.Page.Description}}" itemprop="description" />
+        {{ with index $data "head-styles" }}
+            {{ range . }}
+        <link rel="stylesheet" href="{{ .url }}" />
+            {{ end }}
+        {{ end }}
+        {{ with index $data "head-scripts" }}
+            {{ range . }}
+        <script src="{{ .url }}"></script>
+            {{ end }}
+        {{ end }}
+        {{ $css := .Resources.GetMatch "*.css" }}
+        {{ if $css }}<link rel="stylesheet" href="{{ $css.RelPermalink }}" />{{ end }}
+        {{ $faviconpng := .Resources.GetMatch "favicon*.png" }}
+        {{ if $faviconpng }}<link rel="icon" type="image/png" href="{{ $faviconpng.RelPermalink }}" sizes="96x96" />{{ end }}
+        {{ $faviconsvg := .Resources.GetMatch "favicon*.svg" }}
+        {{ if $faviconsvg }}<link rel="icon" type="image/svg+xml" href="{{ $faviconpng.RelPermalink }}" />{{ end }}
+        {{ $faviconico := .Resources.GetMatch "*.ico" }}
+        {{ if $faviconsvg }}<link rel="shortcut icon" href="{{ $faviconico.RelPermalink }}" />{{ end }}
+
+    </head>
+    <body>
+        <header>
+            <h1>{{.Page.Title}}</h1>
+            <p>{{.Page.Description}}</p>
+        </header>
+
+        <main>
+            {{ with .Resources.GetMatch "*.html" }}
+            {{ .Content | replaceRE `{{ yamlData }}` ( $data | jsonify ) | safeHTML }} {{ else }}
+            <p>Oops! No project file found.</p>
+            {{ end }}
+        </main>
+
+        {{ $js := .Resources.GetMatch "*.js" }}
+        {{ if $js }}
+        <script src="{{ $js.RelPermalink }}"></script>
+        {{ end }}
+    </body>
+</html>
