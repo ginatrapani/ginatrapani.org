@@ -6,9 +6,12 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>{{.Page.Title}} - Gina Trapani's Studio</title>
+        <title>{{.Page.Title}}</title>
         <meta content="{{.Page.Title}}" itemprop="name" />
         <meta content="{{.Page.Description}}" itemprop="description" />
+        <meta property="og:title" content="{{.Page.Title}}" />
+        <meta property="og:description" content="{{.Page.Description}}" />
+
         {{ with index $data "head-styles" }}
             {{ range . }}
         <link rel="stylesheet" href="{{ .url }}" />
