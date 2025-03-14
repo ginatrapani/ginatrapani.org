@@ -12,3 +12,10 @@ command = "hugo --minify --baseURL https://ginatrapani.org/"
 
 [context.deploy-preview]
 command = "hugo --baseURL $DEPLOY_PRIME_URL"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "no-cache, no-store, must-revalidate"
+    Pragma = "no-cache"
+    Expires = "0"
