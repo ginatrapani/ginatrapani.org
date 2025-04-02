@@ -6,6 +6,13 @@ projects:
       url: "https://weeks.ginatrapani.org"
       type: "Data Viz"
 
+    - title: "Cashkey"
+      emoji: 💸
+      description: "Visualize your cash flow"
+      release: "April 2025"
+      url: "https://cashkey.ginatrapani.org"
+      type: "Webapp"
+
     - title: "Media Menu"
       emoji: 🍿
       description: "Short media reviews"
