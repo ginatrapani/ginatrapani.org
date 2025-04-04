@@ -1,7 +1,17 @@
-<div class="grid" id="grid"></div>
-<div class="fs" id="fs"></div>
+<header>
+    <div class="header-content">
+        <div>
+            <h1><a href="/studio/kind-of-blue/">Kind of Blue</a></h1>
+            <p>See how well you know blue.</p>
+        </div>
+        <button id="quiz-btn" class="quiz-btn">Quiz me</button>
+    </div>
+</header>
+
+<div id="grid" class="grid"></div>
+<div id="fs" style="visibility: hidden"></div>
 <div id="tooltip" class="tooltip"></div>
 <script>
     const projectData = {{ yamlData }};
-    const colors = projectData.blues;
+    let colors = projectData.blues;
 </script>

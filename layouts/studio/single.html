@@ -34,11 +34,6 @@
         {{ partial "head/analytics-plausible.html" . }}
     </head>
     <body>
-        <header>
-            <h1>{{.Page.Title}}</h1>
-            <p>{{.Page.Description}}</p>
-        </header>
-
         <main>
             {{ with .Resources.GetMatch "*.html" }}
             {{ .Content | replaceRE `{{ yamlData }}` ( $data | jsonify ) | safeHTML }} {{ else }}

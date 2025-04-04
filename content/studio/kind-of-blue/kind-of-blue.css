@@ -31,6 +31,38 @@ header {
     color: #fffcf0;
 }
 
+h1 a {
+    color: #fffcf0;
+    text-decoration: none;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.quiz-btn {
+    background-color: #fffcf0;
+    color: #1c1b1a;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: inconsolata, ui-sans-serif, Arial, sans-serif;
+    font-size: var(--body-font-size);
+    transition: opacity 0.2s;
+}
+
+.quiz-btn:hover, h1 a:hover {
+    opacity: 0.9;
+}
+
+.quiz-mode .color-label {
+    display: none;
+}
+
 h1 {
     font-weight:900;
     font-size:36px;

@@ -1,4 +1,4 @@
 ---
 title: "Kind of Blue"
-description: "Explore popular shades of blue."
+description: "See how well you know blue."
 ---

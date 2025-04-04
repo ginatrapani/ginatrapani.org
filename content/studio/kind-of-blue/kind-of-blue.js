@@ -1,5 +1,7 @@
 const tooltip = document.getElementById("tooltip");
 
+let isQuizMode = false;
+
 function createGrid() {
     document.getElementById("grid").innerHTML = "";
     colors.forEach((color) => {
@@ -11,7 +13,7 @@ function createGrid() {
         const colorLabel = document.createElement("div");
         colorLabel.classList.add("color-label");
         colorLabel.textContent = color.name;
-        colorLabel.style.color = color.textColor;
+        colorLabel.style.color = textColor;
 
         colorBox.appendChild(colorLabel);
         colorBox.addEventListener("click", () =>
@@ -105,4 +107,34 @@ function copyToClipboard(hex, event) {
     }
 }
 
-createGrid();
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}
+
+function toggleQuizMode() {
+    isQuizMode = !isQuizMode;
+    const gridElement = document.getElementById("grid");
+    const quizBtn = document.getElementById("quiz-btn");
+    
+    if (isQuizMode) {
+        gridElement.classList.add("quiz-mode");
+        quizBtn.textContent = "Show me";
+        // Shuffle the colors array and recreate the grid
+        colors = shuffleArray([...colors]);
+        createGrid();
+    } else {
+        gridElement.classList.remove("quiz-mode");
+        quizBtn.textContent = "Quiz me";
+    }
+}
+
+// Add event listener for the quiz button
+document.addEventListener('DOMContentLoaded', function() {
+    const quizBtn = document.getElementById("quiz-btn");
+    quizBtn.addEventListener("click", toggleQuizMode);
+    createGrid();
+});
