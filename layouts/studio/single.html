@@ -31,6 +31,7 @@
         {{ $faviconico := .Resources.GetMatch "*.ico" }}
         {{ if $faviconsvg }}<link rel="shortcut icon" href="{{ $faviconico.RelPermalink }}" />{{ end }}
 
+        {{ partial "head/analytics-plausible.html" . }}
     </head>
     <body>
         <header>
