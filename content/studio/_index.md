@@ -8,13 +8,13 @@ layout: index
 
 # [Gina Trapani](/)
 
-## Hello! I'm a software person who loves to make stuff.
+## Welcome! I make small curiosities on the web for the joy of it.
 
-I believe the web is the greatest creative platform of all time. I try to create things that are interesting, beautiful, and easy to use. Here are a few things I've made for fun.
+I believe the web is the greatest creative platform of all time. I try to make things that are interesting, beautiful, and easy to use. Here are a few things I've made for fun.
 
 {{< project-list >}}
 
-You can send me a message on [Bluesky](https://bsky.app/profile/ginatrapani.org), or via email to my usual username at Gmail.
+Questions, notes, and bug reports are all welcome. You can send me a message on [Bluesky](https://bsky.app/profile/ginatrapani.org), or via email to my usual username at Gmail.
 
 Thanks for your interest.
 

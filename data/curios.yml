@@ -4,7 +4,7 @@ projects:
       description: "Visualize your cash flow"
       release: "April 2025"
       url: "https://cashkey.ginatrapani.org"
-      type: "Webapp"
+      type: "Tool"
 
     - title: "Kind of Blue"
       emoji: 💙
