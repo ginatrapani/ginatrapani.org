@@ -10,9 +10,7 @@ layout: index
 
 ## Hello! I'm a software person who loves to make stuff.
 
-The web is my favorite creative platform to publish stories, build tools, and make art. I like to play with web technologies and I try to create things that are interesting, beautiful, and easy to use.
-
-Here are a few things I've made for fun.
+I believe the web is the greatest creative platform of all time. I try to create things that are interesting, beautiful, and easy to use. Here are a few things I've made for fun.
 
 {{< project-list >}}
 

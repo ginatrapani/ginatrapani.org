@@ -1,9 +1,14 @@
-<ul>
+<div class="project-grid">
     {{ range .Site.Data.curios.projects }}
-    <li>
-        {{ .emoji }}
-        <a href="{{.url}}">{{.title}}</a>&mdash;{{.description}}
-        <div class="project-meta">{{ .type }}&mdash;{{.release}}</div>
-    </li>
+    <div class="project-card">
+        <div class="project-type">{{ .type }}</div>
+        <div class="project-header">
+            <span class="project-emoji">{{ .emoji }}</span>
+            <span class="project-title">{{ .title }}</span>
+        </div>
+        <div class="project-description">{{ .description }}</div>
+        <div class="project-date">{{ .release }}</div>
+        <a href="{{ .url }}" class="project-link"></a>
+    </div>
     {{ end }}
-</ul>
+</div>
