@@ -21,7 +21,7 @@ projects:
       type: "Blog"
 
     - title: "Truisms"
-      emoji: 🪧
+      emoji: 👀
       description: "A tribute to Jenny Holzer"
       release: "Nov 2024"
       url: "https://truisms.ginatrapani.org"
