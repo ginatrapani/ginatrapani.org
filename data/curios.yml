@@ -1,10 +1,17 @@
 projects:
+    - title: "Foursight"
+      emoji: ➕
+      description: "Frame your thinking"
+      release: "April 2025"
+      url: "https://foursight.ginatrapani.org"
+      type: "Tool"
+
     - title: "Cashkey"
       emoji: 💸
       description: "Visualize your cash flow"
       release: "April 2025"
       url: "https://cashkey.ginatrapani.org"
-      type: "Tool"
+      type: "Data Viz"
 
     - title: "Kind of Blue"
       emoji: 💙
