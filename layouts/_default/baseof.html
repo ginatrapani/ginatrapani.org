@@ -38,7 +38,7 @@
         <meta content="{{.Page.Description}}" name="twitter:description" />
         <meta content="{{ $metacard.RelPermalink }}" name="twitter:image" />
         <meta content="{{ .Site.BaseURL }}" name="twitter:url" />
-        {{ partial "head/analytics-plausible.html" . }}
+        {{ partial "head/analytics.html" . }}
     </head>
     <body>
         <div class="content">{{ block "main" . }}{{ end }}</div>
