@@ -1,42 +1,42 @@
 projects:
-    - title: "Foursight"
-      emoji: ➕
-      description: "Frame your thinking"
-      release: "April 2025"
-      url: "https://foursight.ginatrapani.org"
-      type: "Tool"
-
-    - title: "Cashkey"
-      emoji: 💸
-      description: "Visualize your cash flow"
-      release: "April 2025"
-      url: "https://cashkey.ginatrapani.org"
-      type: "Data Viz"
-
-    - title: "Kind of Blue"
-      emoji: 💙
-      description: "See how well you know blue"
-      release: "March 2025"
-      url: "/studio/kind-of-blue/"
-      type: "Tool"
+    - title: "Note to Self"
+      emoji: 📓
+      description: "Creativity over productivity"
+      url: "https://notetoself.studio"
+      type: "Blog"
 
     - title: "My Life in Weeks"
       emoji: 📍
       description: "A map of my life"
-      release: "Feb 2025"
       url: "https://weeks.ginatrapani.org"
+      type: "Data Viz"
+
+    - title: "Cashkey"
+      emoji: 💸
+      description: "Visualize your cash flow"
+      url: "https://cashkey.ginatrapani.org"
       type: "Data Viz"
 
     - title: "Media Menu"
       emoji: 🍿
       description: "Short media reviews"
-      release: "Jan 2025"
       url: "https://media.ginatrapani.org"
       type: "Blog"
+
+    - title: "Kind of Blue"
+      emoji: 💙
+      description: "See how well you know blue"
+      url: "/studio/kind-of-blue/"
+      type: "Tool"
+
+    - title: "Foursight"
+      emoji: ➕
+      description: "Frame your thinking"
+      url: "https://foursight.ginatrapani.org"
+      type: "Tool"
 
     - title: "Truisms"
       emoji: 👀
       description: "A tribute to Jenny Holzer"
-      release: "Nov 2024"
       url: "https://truisms.ginatrapani.org"
       type: "Art"

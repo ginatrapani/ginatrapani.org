@@ -1,8 +1,6 @@
-* {
-    line-height: 1.4em;
-    text-decoration: none;
-}
-
+// =============================================================================
+// CSS Variables
+// =============================================================================
 :root {
     --prim-bg-color: #111827;
     --text-color: #fcfafa;
@@ -14,6 +12,32 @@
     --h2-font-size: 48px;
     --h2-mobile-font-size: 42px;
     --sec-font-size: 14px;
+}
+
+// =============================================================================
+// Font Declarations
+// =============================================================================
+@font-face {
+    font-family: sofia;
+    src: url(/fonts/sofiapro-light.otf);
+}
+
+@font-face {
+    font-family: inter;
+    src: url(/fonts/Inter_28pt-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family: taviraj;
+    src: url(/fonts/Taviraj-Medium.ttf);
+}
+
+// =============================================================================
+// Base Styles
+// =============================================================================
+* {
+    line-height: 1.4em;
+    text-decoration: none;
 }
 
 body {
@@ -30,19 +54,9 @@ body {
     align-items: center;
 }
 
-@font-face {
-    font-family: sofia;
-    src: url(/fonts/sofiapro-light.otf);
-}
-@font-face {
-    font-family: inter;
-    src: url(/fonts/Inter_28pt-ExtraLight.ttf);
-}
-@font-face {
-    font-family: taviraj;
-    src: url(/fonts/Taviraj-Medium.ttf);
-}
-
+// =============================================================================
+// Typography
+// =============================================================================
 h1 {
     font-family: taviraj, serif;
     font-weight: 500;
@@ -51,12 +65,12 @@ h1 {
     text-decoration: none;
     margin-bottom: 60px;
     margin-top: 34px;
-}
 
-h1 a,
-h1 a:hover {
-    text-decoration: none;
-    border: 0;
+    a,
+    a:hover {
+        text-decoration: none;
+        border: 0;
+    }
 }
 
 h2 {
@@ -68,143 +82,162 @@ h2 {
     letter-spacing: -0.015em;
 }
 
+// =============================================================================
+// Links
+// =============================================================================
+a {
+    color: var(--link-color);
+    border-bottom: dotted var(--text-color) 1px;
+
+    &:hover {
+        border-bottom: solid var(--text-color) 1px;
+        color: var(--highlight-color);
+    }
+}
+
+// =============================================================================
+// Images
+// =============================================================================
+img {
+    float: left;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 64px;
+    height: 64px;
+    margin-right: 10px;
+}
+
+// =============================================================================
+// Lists
+// =============================================================================
+ul {
+    list-style-type: none;
+    margin: 25px 0 0 0;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 25px;
+}
+
+// =============================================================================
+// Layout
+// =============================================================================
 .content {
     width: 70%;
     max-width: 700px;
     padding: 50px;
 }
 
+// =============================================================================
+// Project Grid
+// =============================================================================
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 30%));
+    gap: 20px;
+    margin: 40px 0;
+    @media only screen and (max-width: 768px) {
+        grid-template-columns: repeat(auto-fit, minmax(160px, 45%));
+        justify-content: center;
+        margin: 0;
+    }
+
+    .project-card {
+        position: relative;
+        background: rgba(255, 255, 255, 0.05);
+        border-radius: 6px;
+        padding: 20px 20px 10px 20px;
+        transition: transform 0.2s, background-color 0.2s;
+        cursor: pointer;
+        @media only screen and (max-width: 768px) {
+            padding: 20px 10px 10px 10px;
+        }
+
+        &:hover {
+            transform: translateY(-2px);
+            background: rgba(255, 255, 255, 0.08);
+        }
+
+        .project-type {
+            position: absolute;
+            top: 0;
+            right: 16px;
+            height: 24px;
+            line-height: 24px;
+            background: rgba(255, 255, 255, 0.15);
+            color: rgba(255, 255, 255, 0.7);
+            padding: 0 8px;
+            font-size: 12px;
+            border-radius: 0 0 4px 4px;
+            letter-spacing: 0.5px;
+        }
+
+        .project-link {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            border: none;
+
+            &:hover {
+                border: none;
+            }
+        }
+    }
+
+    .project-header {
+        display: flex;
+        align-items: flex-end;
+        align-items: flex-start;
+        gap: 8px;
+        margin-top: 16px;
+        margin-bottom: 12px;
+        .project-emoji {
+            font-size: 20px;
+            line-height: 1;
+            display: flex;
+            align-items: flex-start;
+        }
+    
+        .project-title {
+            font-family: inter, serif;
+            font-weight: 200;
+            font-optical-sizing: auto;
+            font-style: normal;
+            font-size: 18px;
+            letter-spacing: -0.015em;
+            line-height: 1.5rem;
+            color: var(--text-color);
+        }    
+    }
+
+    .project-description {
+        color: var(--sec-color);
+        margin-bottom: 8px;
+        font-size: 14px;
+        line-height: 1.4;
+    }
+
+    .project-date {
+        color: var(--sec-color);
+        font-size: 12px;
+    }
+}
+
+// =============================================================================
+// Responsive Design
+// =============================================================================
 @media only screen and (max-width: 768px) {
     [class*="content"] {
         width: 90%;
         padding: 20px;
     }
+
     h2 {
         font-size: var(--h2-mobile-font-size);
     }
-}
 
-a {
-    color: var(--link-color);
-    border-bottom: dotted var(--text-color) 1px;
-}
 
-a:hover {
-    border-bottom: solid var(--text-color) 1px;
-    color: var(--highlight-color);
-}
-
-img {
-    float: left;
-    -moz-border-radius: 50%;
-    -webkit-border-radius: 50%;
-    overflow: hidden;
-    width: 64px;
-    height: 64px;
-    margin-right: 10px;
-}
-ul {
-    list-style-type: none;
-    margin: 25px 0 0 0;
-    padding: 0;
-}
-li {
-    margin-bottom: 25px;
-    .project-meta {
-        color: var(--sec-color);
-        font-size: var(--sec-font-size);
-        margin-left: 22px;
-    }
-}
-
-.project-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-    margin: 40px 0;
-}
-
-@media only screen and (max-width: 768px) {
-    .project-grid {
-        grid-template-columns: repeat(1, 1fr);
-    }
-}
-
-.project-card {
-    position: relative;
-    background: rgba(255, 255, 255, 0.05);
-    border-radius: 6px;
-    padding: 20px;
-    transition: transform 0.2s, background-color 0.2s;
-    cursor: pointer;
-    
-    &:hover {
-        transform: translateY(-2px);
-        background: rgba(255, 255, 255, 0.08);
-    }
-}
-
-.project-type {
-    position: absolute;
-    top: 0;
-    right: 16px;
-    height: 24px;
-    line-height: 24px;
-    background: rgba(255, 255, 255, 0.15);
-    color: rgba(255, 255, 255, 0.7);
-    padding: 0 8px;
-    font-size: 12px;
-    border-radius: 0 0 4px 4px;
-    letter-spacing: 0.5px;
-}
-
-.project-header {
-    display: flex;
-    align-items: flex-end;
-    gap: 8px;
-    margin-top: 16px;
-    margin-bottom: 12px;
-}
-
-.project-emoji {
-    font-size: 20px;
-    line-height: 1;
-    display: flex;
-    align-items: flex-end;
-}
-
-.project-title {
-    font-family: inter, serif;
-    font-weight: 200;
-    font-optical-sizing: auto;
-    font-style: normal;
-    font-size: 18px;
-    letter-spacing: -0.015em;
-    line-height: 1;
-    color: var(--text-color);
-}
-
-.project-description {
-    color: #9c9b94;
-    margin-bottom: 8px;
-    font-size: 14px;
-    line-height: 1.4;
-}
-
-.project-date {
-    color: #9c9b94;
-    font-size: 12px;
-}
-
-.project-link {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    border: none;
-    
-    &:hover {
-        border: none;
-    }
 }
