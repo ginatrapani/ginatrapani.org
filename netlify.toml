@@ -13,6 +13,12 @@ command = "hugo --minify --baseURL https://ginatrapani.org/"
 [context.deploy-preview]
 command = "hugo --baseURL $DEPLOY_PRIME_URL"
 
+[[redirects]]
+  from = "/studio/"
+  to = "https://notetoself.studio/projects/"
+  status = 301
+  force = true
+
 [[headers]]
   for = "/*"
   [headers.values]
